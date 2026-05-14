@@ -1,0 +1,33 @@
+dataset,column_name,data_type,description
+hantavirus_country_yearly.csv,year,int,Calendar year of observation
+hantavirus_country_yearly.csv,iso3,str,ISO 3166-1 alpha-3 country code
+hantavirus_country_yearly.csv,country,str,Country name
+hantavirus_country_yearly.csv,who_region,str,WHO regional office code
+hantavirus_country_yearly.csv,latitude,float,Country centroid latitude
+hantavirus_country_yearly.csv,longitude,float,Country centroid longitude
+hantavirus_country_yearly.csv,syndrome,str,HPS or HFRS
+hantavirus_country_yearly.csv,confirmed_cases,int,Confirmed cases
+hantavirus_country_yearly.csv,deaths,int,Confirmed deaths
+hantavirus_country_yearly.csv,recovered,int,Recovered patients
+hantavirus_country_yearly.csv,case_fatality_rate,float,Deaths / Cases
+hantavirus_country_yearly.csv,hospitalized,int,Hospitalized patients
+hantavirus_country_yearly.csv,icu_admissions,int,ICU admissions
+hantavirus_country_yearly.csv,human_to_human_cases,int,H2H transmission cases
+hantavirus_outbreaks.csv,year,int,Outbreak year
+hantavirus_outbreaks.csv,location,str,Geographic location
+hantavirus_outbreaks.csv,virus_strain,str,Identified virus strain
+hantavirus_outbreaks.csv,cases,int,Total cases in outbreak
+hantavirus_outbreaks.csv,deaths,int,Deaths in outbreak
+hantavirus_outbreaks.csv,cfr,float,Case fatality ratio
+hantavirus_clinical.csv,syndrome,str,HPS or HFRS
+hantavirus_clinical.csv,virus_strain,str,Virus strain
+hantavirus_clinical.csv,severity,str,Mild/Moderate/Severe/Critical
+hantavirus_clinical.csv,incubation_days,int,Incubation period in days
+hantavirus_clinical.csv,hospital_days,int,Days hospitalized
+hantavirus_clinical.csv,outcome,str,Recovered or Deceased
+hantavirus_environmental.csv,avg_temp_c,float,Average temperature Celsius
+hantavirus_environmental.csv,rainfall_mm,float,Rainfall in millimeters
+hantavirus_environmental.csv,ndvi,float,Normalized vegetation index
+hantavirus_environmental.csv,rodent_abundance_index,float,Rodent population index 0-1
+hantavirus_virus_strains.csv,strain_name,str,Virus strain common name
+hantavirus_virus_strains.csv,genbank_accession,str,NCBI GenBank accession

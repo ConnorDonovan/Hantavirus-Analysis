@@ -1,0 +1,11 @@
+strain_name,abbreviation,order,family,genus,associated_syndrome,primary_rodent_host,geographic_range,human_to_human,genome_structure,genbank_accession,year_identified
+Andes,ANDV,Bunyavirales,Hantaviridae,Orthohantavirus,HPS,Oligoryzomys longicaudatus,South America,Yes,L/M/S tripartite,NC_003466,1995
+Sin Nombre,SNV,Bunyavirales,Hantaviridae,Orthohantavirus,HPS,Peromyscus maniculatus,North America,No,L/M/S tripartite,NC_005217,1993
+Hantaan,HTNV,Bunyavirales,Hantaviridae,Orthohantavirus,HFRS,Apodemus agrarius,Asia,No,L/M/S tripartite,NC_005219,1976
+Seoul,SEOV,Bunyavirales,Hantaviridae,Orthohantavirus,HFRS,Rattus norvegicus,Global,No,L/M/S tripartite,NC_005236,1980
+Puumala,PUUV,Bunyavirales,Hantaviridae,Orthohantavirus,HFRS,Myodes glareolus,Europe,No,L/M/S tripartite,NC_005224,1980
+Dobrava-Belgrade,DOBV,Bunyavirales,Hantaviridae,Orthohantavirus,HFRS,Apodemus flavicollis,Europe,No,L/M/S tripartite,NC_005233,1985
+Araraquara,ARAV,Bunyavirales,Hantaviridae,Orthohantavirus,HPS,Necromys lasiurus,Brazil,No,L/M/S tripartite,AF307325,2000
+Laguna Negra,LANV,Bunyavirales,Hantaviridae,Orthohantavirus,HPS,Calomys callosus,South America,No,L/M/S tripartite,AF005727,1997
+Choclo,CHOV,Bunyavirales,Hantaviridae,Orthohantavirus,HPS,Oligoryzomys fulvescens,Central America,No,L/M/S tripartite,DQ285046,1999
+Black Creek Canal,BCCV,Bunyavirales,Hantaviridae,Orthohantavirus,HPS,Sigmodon hispidus,North America,No,L/M/S tripartite,AF307324,1995

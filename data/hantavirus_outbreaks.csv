@@ -1,0 +1,21 @@
+year,country_iso3,location,virus_strain,syndrome,cases,deaths,cfr,description,source
+1993,USA,Four Corners,Sin Nombre,HPS,48,27,0.56,First recognized HPS outbreak,"CDC, MMWR"
+1995,ARG,El Bolsón,Andes,HPS,20,10,0.5,First Andes virus cluster,PAHO
+1996,ARG,Southern Patagonia,Andes,HPS,18,6,0.33,First confirmed H2H transmission,Lancet
+1997,CHL,Aysén Region,Andes,HPS,25,8,0.32,Southern Chile cluster,Chile MOH
+1999,PAN,Los Santos,Choclo,HPS,22,5,0.23,First Central American outbreak,PAHO
+2000,PRY,Chaco Region,Laguna Negra,HPS,17,6,0.35,Paraguay rural outbreak,WHO
+2001,DEU,North Rhine-Westphalia,Puumala,HFRS,228,1,0.004,Large European HFRS event,RKI Germany
+2004,CHL,BioBio,Andes,HPS,30,11,0.37,Chile seasonal surge,Chile MOH
+2005,FIN,Nationwide,Puumala,HFRS,2526,2,0.001,Record Finnish NE year,THL Finland
+2007,DEU,Baden-Württemberg,Puumala,HFRS,1688,1,0.001,Germany record year,RKI Germany
+2008,BRA,Santa Catarina,Araraquara,HPS,55,18,0.33,Southern Brazil surge,Brazil SVS
+2010,FIN,Nationwide,Puumala,HFRS,3237,3,0.001,Highest ever Finnish NE,THL Finland
+2012,DEU,Nationwide,Puumala,HFRS,2825,2,0.001,Germany second peak,RKI Germany
+2012,USA,Yosemite NP,Sin Nombre,HPS,10,3,0.3,Tourism-linked cluster,CDC
+2017,ARG,Epuyén precursor,Andes,HPS,14,5,0.36,Patagonia cluster,Argentina MOH
+2018,ARG,Epuyén,Andes,HPS,34,11,0.32,Major H2H chain documented,"WHO, Lancet"
+2019,DEU,Nationwide,Puumala,HFRS,1528,1,0.001,Mast year driven surge,RKI Germany
+2023,BOL,Santa Cruz,Andes-like,HPS,18,7,0.39,Bolivian rural outbreak,Bolivia MOH
+2025,ARG,Multiple provinces,Andes,HPS,72,22,0.31,Climate-linked surge,PAHO 2025
+2026,International,MV Hondius cruise,Andes,HPS,8,3,0.38,"Cruise ship outbreak, 12 countries",WHO 2026

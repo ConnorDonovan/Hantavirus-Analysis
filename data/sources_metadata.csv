@@ -1,0 +1,11 @@
+source_name,url,access_date,license,reliability,description
+WHO,https://www.who.int/health-topics/hantavirus,2026-05-10,CC BY-NC-SA 3.0 IGO,High,Official global health authority
+CDC,https://www.cdc.gov/hantavirus/,2026-05-10,Public Domain,High,US national health agency
+PAHO,https://www.paho.org/en/topics/hantavirus,2026-05-10,CC BY-NC-SA 3.0 IGO,High,Pan American Health Organization
+ECDC,https://www.ecdc.europa.eu/en/hantavirus-infection,2026-05-10,Open Access,High,European Centre for Disease Prevention
+PubMed/NIH,https://pubmed.ncbi.nlm.nih.gov/,2026-05-10,Public Domain,High,Peer-reviewed medical literature
+NCBI GenBank,https://www.ncbi.nlm.nih.gov/genbank/,2026-05-10,Public Domain,High,Genomic sequence database
+WorldClim,https://www.worldclim.org/,2026-05-10,CC BY-SA 4.0,Medium,Global climate data
+IUCN Red List,https://www.iucnredlist.org/,2026-05-10,Terms of Use,Medium,Rodent species distribution
+Global Forest Watch,https://www.globalforestwatch.org/,2026-05-10,CC BY 4.0,Medium,Deforestation monitoring
+Natural Earth,https://www.naturalearthdata.com/,2026-05-10,Public Domain,High,Geographic reference data

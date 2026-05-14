@@ -1,0 +1,897 @@
+iso3,region,latitude,longitude,biome,year,quarter,avg_temp_c,rainfall_mm,humidity_pct,ndvi,rodent_abundance_index,rodent_host_species,deforestation_km2,exposure_setting
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2010,1,8.5,247.9,83.6,0.508,0.806,Oligoryzomys longicaudatus,3.91,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2010,2,14.2,218.5,72.2,0.504,0.679,Oligoryzomys longicaudatus,2.78,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2010,3,13.9,192.8,55.3,0.339,0.552,Oligoryzomys longicaudatus,1.81,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2010,4,17.2,378.8,59.7,0.628,0.599,Oligoryzomys longicaudatus,3.48,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2011,1,5.2,198.1,67.1,0.389,0.613,Oligoryzomys longicaudatus,2.02,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2011,2,7.7,158.6,67.9,0.804,0.769,Oligoryzomys longicaudatus,4.03,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2011,3,14.5,289.5,62.2,0.777,0.803,Oligoryzomys longicaudatus,3.16,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2011,4,16.9,0.0,68.8,0.588,0.401,Oligoryzomys longicaudatus,2.81,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2012,1,10.9,177.1,60.6,0.575,0.882,Oligoryzomys longicaudatus,3.42,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2012,2,10.5,370.4,61.1,0.619,0.767,Oligoryzomys longicaudatus,1.16,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2012,3,13.7,265.7,59.7,0.829,0.73,Oligoryzomys longicaudatus,0.88,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2012,4,17.1,0.0,51.8,0.36,0.838,Oligoryzomys longicaudatus,0.73,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2013,1,9.0,346.9,75.5,0.83,0.474,Oligoryzomys longicaudatus,3.93,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2013,2,10.1,207.3,73.3,0.533,0.472,Oligoryzomys longicaudatus,3.39,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2013,3,14.0,384.7,61.3,0.71,0.842,Oligoryzomys longicaudatus,2.76,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2013,4,17.0,24.1,68.3,0.479,0.78,Oligoryzomys longicaudatus,1.89,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2014,1,8.7,38.5,61.5,0.483,0.44,Oligoryzomys longicaudatus,2.79,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2014,2,8.3,317.3,73.1,0.664,0.883,Oligoryzomys longicaudatus,1.36,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2014,3,14.0,128.4,66.0,0.468,0.621,Oligoryzomys longicaudatus,2.0,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2014,4,18.7,112.9,71.4,0.72,0.483,Oligoryzomys longicaudatus,2.62,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2015,1,7.2,109.4,74.1,0.74,0.794,Oligoryzomys longicaudatus,2.41,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2015,2,11.0,81.4,78.8,0.713,0.741,Oligoryzomys longicaudatus,2.91,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2015,3,16.4,228.1,54.2,0.489,0.862,Oligoryzomys longicaudatus,4.78,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2015,4,17.9,15.0,86.8,0.491,0.444,Oligoryzomys longicaudatus,1.46,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2016,1,6.3,335.7,78.4,0.771,0.559,Oligoryzomys longicaudatus,3.6,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2016,2,10.8,164.1,61.4,0.612,0.422,Oligoryzomys longicaudatus,1.71,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2016,3,13.6,215.5,81.7,0.789,0.462,Oligoryzomys longicaudatus,4.86,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2016,4,16.2,181.0,71.8,0.489,0.591,Oligoryzomys longicaudatus,4.24,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2017,1,7.6,100.8,55.8,0.327,0.408,Oligoryzomys longicaudatus,1.66,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2017,2,10.1,83.0,59.4,0.251,0.593,Oligoryzomys longicaudatus,1.24,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2017,3,12.6,333.5,80.9,0.377,0.816,Oligoryzomys longicaudatus,2.94,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2017,4,14.5,0.0,45.0,0.356,0.649,Oligoryzomys longicaudatus,3.46,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2018,1,5.1,183.5,61.1,0.498,0.788,Oligoryzomys longicaudatus,5.42,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2018,2,13.3,262.4,68.7,0.473,0.769,Oligoryzomys longicaudatus,5.55,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2018,3,14.4,246.0,57.1,0.578,0.562,Oligoryzomys longicaudatus,2.55,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2018,4,15.9,440.1,62.7,0.66,0.547,Oligoryzomys longicaudatus,2.68,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2019,1,8.8,195.5,56.3,0.411,0.73,Oligoryzomys longicaudatus,2.33,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2019,2,9.5,400.4,65.8,0.707,0.819,Oligoryzomys longicaudatus,3.17,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2019,3,13.2,231.0,68.0,0.431,0.735,Oligoryzomys longicaudatus,5.41,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2019,4,19.6,61.7,72.0,0.577,0.774,Oligoryzomys longicaudatus,1.41,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2020,1,6.5,246.5,68.9,0.481,0.675,Oligoryzomys longicaudatus,2.3,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2020,2,9.8,224.6,73.0,0.626,0.564,Oligoryzomys longicaudatus,5.92,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2020,3,14.5,291.0,50.9,0.779,0.449,Oligoryzomys longicaudatus,4.87,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2020,4,19.2,11.5,72.0,0.664,0.844,Oligoryzomys longicaudatus,1.7,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2021,1,8.7,399.6,85.1,0.441,0.557,Oligoryzomys longicaudatus,1.65,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2021,2,13.3,278.9,62.9,0.266,0.949,Oligoryzomys longicaudatus,4.33,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2021,3,13.7,390.9,67.5,0.797,0.565,Oligoryzomys longicaudatus,2.42,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2021,4,16.6,13.2,76.9,0.439,0.778,Oligoryzomys longicaudatus,5.81,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2022,1,7.0,184.1,58.9,0.529,0.986,Oligoryzomys longicaudatus,2.84,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2022,2,12.7,40.6,52.1,0.658,0.512,Oligoryzomys longicaudatus,1.82,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2022,3,12.8,382.6,66.4,0.268,0.597,Oligoryzomys longicaudatus,2.76,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2022,4,15.0,116.8,75.4,0.522,0.581,Oligoryzomys longicaudatus,4.59,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2023,1,8.9,256.6,85.4,0.254,0.613,Oligoryzomys longicaudatus,4.42,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2023,2,11.4,89.2,64.8,0.473,0.995,Oligoryzomys longicaudatus,5.23,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2023,3,13.6,224.2,60.1,0.251,0.994,Oligoryzomys longicaudatus,5.28,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2023,4,18.3,351.9,71.9,0.679,0.449,Oligoryzomys longicaudatus,3.92,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2024,1,5.5,176.2,62.1,0.829,0.969,Oligoryzomys longicaudatus,4.33,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2024,2,9.5,31.1,71.7,0.752,0.617,Oligoryzomys longicaudatus,3.92,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2024,3,15.6,159.6,54.9,0.575,0.533,Oligoryzomys longicaudatus,2.83,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2024,4,16.6,494.6,74.1,0.791,0.586,Oligoryzomys longicaudatus,2.2,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2025,1,6.4,323.9,70.5,0.746,0.715,Oligoryzomys longicaudatus,5.67,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2025,2,11.3,293.2,73.9,0.646,1.0,Oligoryzomys longicaudatus,4.41,Rural
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2025,3,12.1,129.2,61.0,0.64,0.7,Oligoryzomys longicaudatus,5.59,Peri-urban
+ARG,Patagonia,-42.0,-71.0,Temperate forest,2025,4,18.6,127.6,67.9,0.699,0.686,Oligoryzomys longicaudatus,5.92,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2010,1,11.8,83.1,73.4,0.557,0.312,Oligoryzomys flavescens,3.4,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2010,2,16.0,54.7,64.8,0.294,0.756,Oligoryzomys flavescens,2.07,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2010,3,18.5,449.9,69.2,0.254,0.449,Oligoryzomys flavescens,1.98,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2010,4,20.9,138.5,81.7,0.721,0.301,Oligoryzomys flavescens,4.18,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2011,1,11.6,165.8,67.1,0.79,0.468,Oligoryzomys flavescens,1.35,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2011,2,13.5,337.7,70.7,0.404,0.88,Oligoryzomys flavescens,1.19,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2011,3,22.5,205.4,79.2,0.552,0.578,Oligoryzomys flavescens,1.19,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2011,4,21.9,177.9,68.0,0.753,0.646,Oligoryzomys flavescens,4.49,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2012,1,12.5,113.4,58.4,0.62,0.913,Oligoryzomys flavescens,0.72,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2012,2,11.5,344.0,80.8,0.273,0.745,Oligoryzomys flavescens,1.85,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2012,3,17.6,296.2,69.9,0.266,0.818,Oligoryzomys flavescens,4.98,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2012,4,21.3,295.7,72.7,0.588,0.798,Oligoryzomys flavescens,3.03,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2013,1,14.2,263.3,76.6,0.329,0.542,Oligoryzomys flavescens,4.98,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2013,2,16.8,296.9,78.8,0.609,0.42,Oligoryzomys flavescens,4.87,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2013,3,12.8,278.2,63.4,0.504,0.578,Oligoryzomys flavescens,4.5,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2013,4,19.6,270.6,67.0,0.746,0.495,Oligoryzomys flavescens,1.14,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2014,1,12.6,359.5,61.9,0.401,0.868,Oligoryzomys flavescens,4.28,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2014,2,15.0,6.2,90.4,0.716,0.639,Oligoryzomys flavescens,1.13,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2014,3,18.2,323.0,73.7,0.659,0.9,Oligoryzomys flavescens,4.73,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2014,4,20.4,261.8,78.7,0.748,0.438,Oligoryzomys flavescens,2.08,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2015,1,12.2,110.2,81.6,0.469,0.874,Oligoryzomys flavescens,4.23,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2015,2,17.9,395.9,62.8,0.386,0.791,Oligoryzomys flavescens,3.88,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2015,3,18.9,117.0,70.7,0.556,0.865,Oligoryzomys flavescens,1.07,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2015,4,19.4,82.3,62.0,0.436,0.663,Oligoryzomys flavescens,5.03,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2016,1,11.1,293.2,78.6,0.265,0.575,Oligoryzomys flavescens,1.5,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2016,2,15.5,478.0,76.2,0.822,0.549,Oligoryzomys flavescens,2.17,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2016,3,16.2,45.3,80.7,0.624,0.715,Oligoryzomys flavescens,1.81,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2016,4,23.8,79.8,66.6,0.6,0.472,Oligoryzomys flavescens,4.03,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2017,1,10.4,544.4,75.6,0.358,0.725,Oligoryzomys flavescens,2.7,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2017,2,13.4,222.9,80.1,0.54,0.607,Oligoryzomys flavescens,3.87,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2017,3,17.9,285.4,73.0,0.376,0.45,Oligoryzomys flavescens,4.59,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2017,4,22.3,18.7,75.7,0.295,0.617,Oligoryzomys flavescens,4.51,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2018,1,11.3,137.0,83.1,0.664,0.817,Oligoryzomys flavescens,2.95,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2018,2,14.8,192.1,75.1,0.474,0.829,Oligoryzomys flavescens,4.07,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2018,3,15.8,468.4,72.2,0.471,0.47,Oligoryzomys flavescens,3.12,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2018,4,18.8,112.7,77.6,0.733,0.575,Oligoryzomys flavescens,2.44,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2019,1,14.0,443.2,53.0,0.729,0.439,Oligoryzomys flavescens,2.08,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2019,2,16.0,427.8,66.7,0.839,0.922,Oligoryzomys flavescens,2.71,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2019,3,16.3,150.2,71.6,0.388,0.453,Oligoryzomys flavescens,5.88,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2019,4,21.2,362.1,86.8,0.434,0.796,Oligoryzomys flavescens,3.95,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2020,1,12.5,338.4,72.8,0.765,0.549,Oligoryzomys flavescens,4.66,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2020,2,18.2,374.2,72.8,0.272,0.547,Oligoryzomys flavescens,5.95,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2020,3,17.4,87.4,78.0,0.586,0.814,Oligoryzomys flavescens,3.9,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2020,4,19.1,0.0,76.1,0.269,0.47,Oligoryzomys flavescens,3.87,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2021,1,11.1,510.9,71.3,0.278,0.828,Oligoryzomys flavescens,4.1,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2021,2,14.8,326.0,80.9,0.772,0.439,Oligoryzomys flavescens,2.16,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2021,3,17.0,68.3,61.5,0.737,0.52,Oligoryzomys flavescens,4.23,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2021,4,21.3,350.9,72.1,0.542,0.761,Oligoryzomys flavescens,4.48,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2022,1,14.4,370.8,70.0,0.445,0.494,Oligoryzomys flavescens,5.56,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2022,2,18.5,393.3,71.2,0.369,0.872,Oligoryzomys flavescens,4.94,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2022,3,18.4,0.0,78.2,0.81,0.838,Oligoryzomys flavescens,2.13,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2022,4,20.0,49.7,67.1,0.46,0.431,Oligoryzomys flavescens,3.2,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2023,1,12.5,516.5,76.3,0.726,0.998,Oligoryzomys flavescens,4.05,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2023,2,17.2,400.0,75.2,0.818,0.75,Oligoryzomys flavescens,2.93,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2023,3,18.1,412.7,59.5,0.703,0.827,Oligoryzomys flavescens,5.25,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2023,4,24.6,79.3,74.9,0.301,1.0,Oligoryzomys flavescens,5.2,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2024,1,16.1,230.3,67.8,0.783,0.654,Oligoryzomys flavescens,5.59,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2024,2,13.5,288.9,69.3,0.527,0.515,Oligoryzomys flavescens,2.32,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2024,3,15.9,141.0,73.8,0.384,0.953,Oligoryzomys flavescens,2.19,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2024,4,19.7,295.9,79.9,0.538,0.949,Oligoryzomys flavescens,4.22,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2025,1,12.5,99.5,77.5,0.767,0.958,Oligoryzomys flavescens,4.92,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2025,2,17.2,286.9,67.9,0.46,1.0,Oligoryzomys flavescens,2.43,Peri-urban
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2025,3,16.7,398.2,72.8,0.652,0.722,Oligoryzomys flavescens,2.89,Rural
+ARG,Buenos Aires,-34.6,-58.4,Pampa grassland,2025,4,22.0,470.2,67.3,0.773,0.885,Oligoryzomys flavescens,5.56,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2010,1,5.8,372.3,76.6,0.596,0.9,Oligoryzomys longicaudatus,3.35,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2010,2,4.9,540.2,79.7,0.791,0.506,Oligoryzomys longicaudatus,2.58,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2010,3,9.7,206.8,82.6,0.471,0.66,Oligoryzomys longicaudatus,4.68,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2010,4,11.7,760.7,78.3,0.327,0.58,Oligoryzomys longicaudatus,2.06,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2011,1,4.5,1298.8,84.6,0.637,0.762,Oligoryzomys longicaudatus,2.97,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2011,2,4.8,693.3,87.6,0.816,0.608,Oligoryzomys longicaudatus,0.72,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2011,3,8.6,1201.6,87.7,0.261,0.708,Oligoryzomys longicaudatus,0.72,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2011,4,13.2,1673.2,90.0,0.748,0.575,Oligoryzomys longicaudatus,1.88,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2012,1,2.3,658.5,72.1,0.722,0.381,Oligoryzomys longicaudatus,1.79,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2012,2,7.6,192.9,67.2,0.738,0.577,Oligoryzomys longicaudatus,1.01,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2012,3,10.0,424.0,68.8,0.466,0.379,Oligoryzomys longicaudatus,4.94,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2012,4,9.0,632.2,98.0,0.411,0.878,Oligoryzomys longicaudatus,4.56,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2013,1,0.3,826.1,83.9,0.415,0.757,Oligoryzomys longicaudatus,4.08,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2013,2,8.0,212.1,94.2,0.533,0.527,Oligoryzomys longicaudatus,1.89,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2013,3,10.1,517.7,79.9,0.537,0.821,Oligoryzomys longicaudatus,2.03,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2013,4,15.8,935.6,82.8,0.632,0.84,Oligoryzomys longicaudatus,4.18,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2014,1,0.9,209.4,74.3,0.576,0.551,Oligoryzomys longicaudatus,2.52,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2014,2,8.2,1075.5,72.5,0.522,0.551,Oligoryzomys longicaudatus,1.44,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2014,3,12.0,953.8,85.8,0.291,0.829,Oligoryzomys longicaudatus,1.82,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2014,4,17.1,548.6,76.7,0.632,0.626,Oligoryzomys longicaudatus,4.8,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2015,1,1.9,527.3,85.6,0.668,0.86,Oligoryzomys longicaudatus,3.46,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2015,2,8.9,857.3,88.6,0.538,0.686,Oligoryzomys longicaudatus,4.17,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2015,3,12.9,1059.6,76.3,0.54,0.481,Oligoryzomys longicaudatus,4.18,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2015,4,12.2,284.0,63.8,0.331,0.393,Oligoryzomys longicaudatus,2.04,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2016,1,2.4,430.1,91.1,0.715,0.772,Oligoryzomys longicaudatus,4.9,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2016,2,3.9,183.9,76.0,0.295,0.367,Oligoryzomys longicaudatus,3.35,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2016,3,11.3,424.2,82.1,0.785,0.807,Oligoryzomys longicaudatus,4.81,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2016,4,13.7,664.1,84.0,0.678,0.784,Oligoryzomys longicaudatus,1.34,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2017,1,3.2,487.6,69.2,0.7,0.441,Oligoryzomys longicaudatus,4.79,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2017,2,3.8,636.6,66.4,0.753,0.902,Oligoryzomys longicaudatus,2.94,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2017,3,10.9,629.6,79.7,0.283,0.406,Oligoryzomys longicaudatus,5.15,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2017,4,13.8,691.8,76.9,0.404,0.566,Oligoryzomys longicaudatus,5.57,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2018,1,4.7,483.1,63.6,0.568,0.738,Oligoryzomys longicaudatus,2.7,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2018,2,8.8,492.2,88.0,0.564,0.404,Oligoryzomys longicaudatus,1.98,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2018,3,9.4,851.9,77.2,0.472,0.39,Oligoryzomys longicaudatus,1.73,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2018,4,15.5,731.7,77.3,0.592,0.807,Oligoryzomys longicaudatus,5.43,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2019,1,1.8,138.2,74.9,0.619,0.819,Oligoryzomys longicaudatus,4.4,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2019,2,5.1,286.2,66.0,0.459,0.494,Oligoryzomys longicaudatus,3.91,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2019,3,7.7,89.7,67.9,0.626,0.937,Oligoryzomys longicaudatus,2.06,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2019,4,14.0,410.0,85.0,0.746,0.439,Oligoryzomys longicaudatus,3.42,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2020,1,1.2,1572.3,84.2,0.773,0.592,Oligoryzomys longicaudatus,3.9,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2020,2,4.8,778.8,70.5,0.269,0.619,Oligoryzomys longicaudatus,3.31,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2020,3,11.9,341.8,70.4,0.809,0.918,Oligoryzomys longicaudatus,1.64,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2020,4,13.6,906.8,91.0,0.653,0.893,Oligoryzomys longicaudatus,5.4,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2021,1,2.9,306.4,77.3,0.798,0.674,Oligoryzomys longicaudatus,1.63,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2021,2,6.7,883.4,67.0,0.575,0.422,Oligoryzomys longicaudatus,2.65,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2021,3,6.7,844.9,71.0,0.584,0.954,Oligoryzomys longicaudatus,5.76,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2021,4,14.3,1102.4,74.3,0.751,0.445,Oligoryzomys longicaudatus,3.09,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2022,1,-0.1,585.6,84.3,0.458,0.949,Oligoryzomys longicaudatus,4.56,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2022,2,7.7,402.1,90.1,0.61,0.526,Oligoryzomys longicaudatus,2.24,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2022,3,8.9,813.8,85.4,0.655,0.733,Oligoryzomys longicaudatus,1.97,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2022,4,15.1,842.4,63.3,0.455,0.952,Oligoryzomys longicaudatus,2.78,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2023,1,4.8,134.3,72.3,0.287,0.836,Oligoryzomys longicaudatus,4.24,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2023,2,7.3,749.5,77.9,0.264,0.934,Oligoryzomys longicaudatus,4.36,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2023,3,9.8,872.3,66.6,0.745,0.719,Oligoryzomys longicaudatus,5.78,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2023,4,11.7,566.1,77.3,0.54,0.491,Oligoryzomys longicaudatus,5.9,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2024,1,5.4,365.6,83.9,0.275,0.646,Oligoryzomys longicaudatus,2.03,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2024,2,5.8,506.3,77.2,0.639,0.624,Oligoryzomys longicaudatus,5.36,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2024,3,10.6,574.2,91.8,0.486,0.757,Oligoryzomys longicaudatus,2.33,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2024,4,13.5,1090.9,80.2,0.478,0.91,Oligoryzomys longicaudatus,5.2,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2025,1,6.7,744.6,82.8,0.566,0.473,Oligoryzomys longicaudatus,3.71,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2025,2,7.2,185.7,72.9,0.272,0.989,Oligoryzomys longicaudatus,6.38,Rural
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2025,3,11.7,159.1,79.2,0.262,0.969,Oligoryzomys longicaudatus,2.94,Peri-urban
+CHL,Aysén,-45.6,-72.1,Valdivian forest,2025,4,14.3,736.7,85.0,0.837,0.91,Oligoryzomys longicaudatus,6.38,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2010,1,7.7,262.4,79.6,0.422,0.773,Oligoryzomys longicaudatus,1.57,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2010,2,13.9,80.2,65.0,0.458,0.663,Oligoryzomys longicaudatus,0.57,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2010,3,13.3,330.5,65.7,0.408,0.43,Oligoryzomys longicaudatus,2.05,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2010,4,17.6,611.9,51.1,0.672,0.869,Oligoryzomys longicaudatus,1.88,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2011,1,10.1,127.7,68.8,0.584,0.364,Oligoryzomys longicaudatus,4.47,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2011,2,10.2,540.6,56.6,0.64,0.405,Oligoryzomys longicaudatus,1.26,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2011,3,15.9,262.9,63.3,0.385,0.874,Oligoryzomys longicaudatus,0.68,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2011,4,15.4,161.3,58.5,0.609,0.839,Oligoryzomys longicaudatus,0.8,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2012,1,7.0,947.7,76.3,0.508,0.432,Oligoryzomys longicaudatus,2.38,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2012,2,9.9,865.5,75.7,0.47,0.35,Oligoryzomys longicaudatus,1.9,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2012,3,15.2,520.7,65.7,0.526,0.441,Oligoryzomys longicaudatus,4.58,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2012,4,19.2,172.7,57.4,0.744,0.619,Oligoryzomys longicaudatus,4.99,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2013,1,7.6,274.3,76.1,0.408,0.468,Oligoryzomys longicaudatus,2.12,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2013,2,11.9,597.8,70.7,0.742,0.331,Oligoryzomys longicaudatus,4.02,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2013,3,14.9,397.2,75.1,0.468,0.653,Oligoryzomys longicaudatus,2.82,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2013,4,18.3,468.2,70.1,0.787,0.781,Oligoryzomys longicaudatus,4.37,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2014,1,9.0,524.7,69.7,0.467,0.54,Oligoryzomys longicaudatus,4.54,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2014,2,11.1,439.6,75.9,0.548,0.922,Oligoryzomys longicaudatus,3.37,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2014,3,13.5,392.7,74.7,0.438,0.753,Oligoryzomys longicaudatus,2.87,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2014,4,17.8,199.9,66.8,0.268,0.877,Oligoryzomys longicaudatus,1.29,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2015,1,8.0,83.6,65.4,0.517,0.933,Oligoryzomys longicaudatus,2.94,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2015,2,12.6,484.2,59.7,0.395,0.938,Oligoryzomys longicaudatus,2.37,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2015,3,13.3,292.2,70.1,0.775,0.614,Oligoryzomys longicaudatus,5.15,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2015,4,18.7,133.2,76.0,0.553,0.702,Oligoryzomys longicaudatus,1.66,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2016,1,8.4,290.6,75.9,0.318,0.376,Oligoryzomys longicaudatus,4.12,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2016,2,12.7,563.0,79.0,0.849,0.751,Oligoryzomys longicaudatus,3.87,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2016,3,12.7,669.8,67.1,0.416,0.363,Oligoryzomys longicaudatus,1.42,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2016,4,17.9,444.8,79.1,0.668,0.587,Oligoryzomys longicaudatus,4.59,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2017,1,4.1,225.9,81.4,0.493,0.517,Oligoryzomys longicaudatus,2.33,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2017,2,14.9,475.6,75.9,0.796,0.427,Oligoryzomys longicaudatus,3.92,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2017,3,10.8,315.2,67.6,0.719,0.462,Oligoryzomys longicaudatus,4.56,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2017,4,18.8,325.0,75.9,0.705,0.953,Oligoryzomys longicaudatus,5.08,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2018,1,4.7,578.3,68.6,0.395,0.438,Oligoryzomys longicaudatus,5.47,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2018,2,12.2,0.0,65.0,0.803,0.558,Oligoryzomys longicaudatus,3.03,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2018,3,11.7,219.2,64.9,0.469,0.5,Oligoryzomys longicaudatus,3.25,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2018,4,16.1,352.4,54.1,0.437,0.943,Oligoryzomys longicaudatus,4.57,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2019,1,6.5,337.4,83.2,0.316,0.617,Oligoryzomys longicaudatus,5.83,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2019,2,14.6,582.7,65.0,0.672,0.726,Oligoryzomys longicaudatus,5.77,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2019,3,13.3,262.1,72.2,0.312,0.657,Oligoryzomys longicaudatus,1.97,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2019,4,15.2,272.4,58.2,0.685,0.435,Oligoryzomys longicaudatus,4.92,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2020,1,6.5,303.6,74.7,0.292,0.964,Oligoryzomys longicaudatus,1.61,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2020,2,10.6,285.1,73.5,0.75,0.96,Oligoryzomys longicaudatus,4.62,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2020,3,13.3,205.4,76.9,0.648,0.846,Oligoryzomys longicaudatus,5.99,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2020,4,17.1,662.7,60.2,0.532,0.884,Oligoryzomys longicaudatus,1.77,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2021,1,12.2,274.6,72.2,0.292,0.414,Oligoryzomys longicaudatus,4.16,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2021,2,9.5,557.0,78.4,0.364,0.668,Oligoryzomys longicaudatus,4.98,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2021,3,13.0,0.0,74.8,0.811,0.468,Oligoryzomys longicaudatus,4.43,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2021,4,15.5,255.1,54.8,0.382,0.808,Oligoryzomys longicaudatus,5.23,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2022,1,6.7,301.1,57.1,0.331,0.789,Oligoryzomys longicaudatus,4.37,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2022,2,11.9,390.8,73.1,0.342,0.479,Oligoryzomys longicaudatus,4.43,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2022,3,15.1,311.5,72.8,0.646,0.558,Oligoryzomys longicaudatus,2.28,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2022,4,18.1,409.0,65.8,0.723,0.964,Oligoryzomys longicaudatus,3.05,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2023,1,7.0,211.4,73.8,0.628,0.767,Oligoryzomys longicaudatus,4.97,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2023,2,9.6,707.5,80.9,0.728,0.734,Oligoryzomys longicaudatus,2.84,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2023,3,17.6,278.3,67.7,0.464,0.53,Oligoryzomys longicaudatus,3.38,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2023,4,17.1,328.8,49.8,0.633,0.717,Oligoryzomys longicaudatus,3.71,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2024,1,7.7,96.9,80.3,0.282,0.531,Oligoryzomys longicaudatus,3.07,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2024,2,13.1,121.6,65.6,0.698,0.521,Oligoryzomys longicaudatus,3.39,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2024,3,11.6,140.8,66.0,0.7,0.926,Oligoryzomys longicaudatus,4.89,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2024,4,16.2,89.0,71.2,0.707,0.444,Oligoryzomys longicaudatus,4.23,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2025,1,9.1,141.3,62.0,0.632,0.707,Oligoryzomys longicaudatus,3.35,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2025,2,18.2,285.4,45.7,0.407,0.612,Oligoryzomys longicaudatus,5.19,Rural
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2025,3,17.2,398.4,61.9,0.606,0.509,Oligoryzomys longicaudatus,4.07,Peri-urban
+CHL,BioBio,-36.8,-73.1,Mediterranean scrub,2025,4,17.8,543.0,67.2,0.441,0.876,Oligoryzomys longicaudatus,2.65,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2010,1,12.5,715.5,73.6,0.528,0.763,Necromys lasiurus,2.51,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2010,2,16.8,354.0,69.1,0.583,0.772,Necromys lasiurus,1.22,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2010,3,22.7,365.8,72.5,0.527,0.562,Necromys lasiurus,0.78,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2010,4,24.6,375.0,78.5,0.563,0.572,Necromys lasiurus,1.85,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2011,1,17.9,607.5,76.4,0.542,0.687,Necromys lasiurus,1.01,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2011,2,17.0,215.2,79.3,0.754,0.348,Necromys lasiurus,0.62,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2011,3,17.6,453.5,59.2,0.266,0.614,Necromys lasiurus,0.82,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2011,4,22.9,0.0,79.7,0.49,0.629,Necromys lasiurus,2.57,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2012,1,17.4,426.9,61.6,0.628,0.684,Necromys lasiurus,4.61,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2012,2,17.6,730.0,79.1,0.76,0.749,Necromys lasiurus,1.8,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2012,3,26.3,100.0,73.4,0.506,0.608,Necromys lasiurus,0.75,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2012,4,24.2,414.2,78.2,0.794,0.613,Necromys lasiurus,4.07,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2013,1,18.6,599.1,81.0,0.619,0.637,Necromys lasiurus,5.1,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2013,2,14.8,219.4,64.0,0.698,0.771,Necromys lasiurus,3.3,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2013,3,22.8,227.8,83.0,0.294,0.913,Necromys lasiurus,3.07,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2013,4,22.6,474.2,76.0,0.508,0.393,Necromys lasiurus,1.03,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2014,1,14.1,491.1,66.2,0.721,0.537,Necromys lasiurus,4.54,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2014,2,18.2,310.2,81.6,0.841,0.631,Necromys lasiurus,1.76,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2014,3,21.7,115.4,75.5,0.482,0.68,Necromys lasiurus,4.41,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2014,4,22.5,474.4,88.3,0.834,0.542,Necromys lasiurus,2.99,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2015,1,13.9,234.5,74.7,0.318,0.424,Necromys lasiurus,3.1,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2015,2,20.7,693.6,68.8,0.444,0.58,Necromys lasiurus,1.07,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2015,3,18.5,195.6,79.7,0.429,0.586,Necromys lasiurus,2.49,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2015,4,26.4,431.0,72.2,0.76,0.846,Necromys lasiurus,1.07,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2016,1,13.6,559.8,81.8,0.753,0.922,Necromys lasiurus,1.88,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2016,2,17.7,414.8,89.2,0.699,0.364,Necromys lasiurus,5.12,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2016,3,22.5,462.5,66.9,0.533,0.842,Necromys lasiurus,4.81,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2016,4,24.9,574.6,68.2,0.633,0.378,Necromys lasiurus,3.11,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2017,1,17.0,858.9,83.4,0.55,0.917,Necromys lasiurus,4.92,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2017,2,18.0,662.1,73.0,0.502,0.893,Necromys lasiurus,5.69,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2017,3,21.4,83.1,78.8,0.574,0.555,Necromys lasiurus,1.33,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2017,4,23.3,578.9,62.6,0.713,0.489,Necromys lasiurus,1.33,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2018,1,14.0,213.0,75.0,0.848,0.648,Necromys lasiurus,5.53,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2018,2,19.2,485.5,73.0,0.817,0.895,Necromys lasiurus,4.18,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2018,3,21.1,113.6,66.2,0.373,0.389,Necromys lasiurus,5.42,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2018,4,25.8,397.4,70.3,0.432,0.93,Necromys lasiurus,3.51,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2019,1,12.6,858.4,88.4,0.303,0.956,Necromys lasiurus,2.94,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2019,2,21.2,74.9,88.7,0.572,0.53,Necromys lasiurus,5.33,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2019,3,19.2,281.7,78.8,0.614,0.956,Necromys lasiurus,4.86,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2019,4,27.8,97.2,74.2,0.627,0.688,Necromys lasiurus,1.88,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2020,1,16.5,75.1,68.1,0.433,0.813,Necromys lasiurus,3.36,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2020,2,18.4,684.3,72.1,0.44,0.966,Necromys lasiurus,3.35,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2020,3,21.6,546.3,74.1,0.376,0.57,Necromys lasiurus,3.03,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2020,4,25.3,678.4,83.0,0.461,0.971,Necromys lasiurus,3.23,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2021,1,17.9,584.9,85.3,0.822,0.837,Necromys lasiurus,5.51,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2021,2,20.8,243.9,68.7,0.306,0.909,Necromys lasiurus,1.73,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2021,3,20.0,326.6,68.7,0.518,0.449,Necromys lasiurus,6.08,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2021,4,24.7,104.8,81.1,0.8,0.895,Necromys lasiurus,4.31,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2022,1,16.5,666.0,66.8,0.407,0.689,Necromys lasiurus,2.55,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2022,2,18.8,0.0,67.4,0.406,0.715,Necromys lasiurus,2.58,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2022,3,19.5,216.5,71.4,0.62,0.435,Necromys lasiurus,4.96,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2022,4,26.1,0.0,56.0,0.43,0.781,Necromys lasiurus,4.96,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2023,1,13.4,572.0,80.8,0.715,0.923,Necromys lasiurus,4.72,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2023,2,20.0,584.1,65.8,0.581,0.689,Necromys lasiurus,2.28,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2023,3,18.0,362.6,83.3,0.713,0.913,Necromys lasiurus,6.25,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2023,4,27.2,441.5,81.1,0.723,0.957,Necromys lasiurus,2.21,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2024,1,14.7,269.7,87.6,0.667,0.872,Necromys lasiurus,5.48,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2024,2,19.9,409.1,76.7,0.442,0.637,Necromys lasiurus,3.15,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2024,3,21.3,231.0,78.0,0.726,0.554,Necromys lasiurus,3.3,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2024,4,26.6,168.2,77.0,0.684,0.944,Necromys lasiurus,2.86,Peri-urban
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2025,1,13.8,268.9,63.5,0.531,0.916,Necromys lasiurus,3.85,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2025,2,14.8,390.9,72.0,0.714,0.897,Necromys lasiurus,5.46,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2025,3,22.5,550.4,70.1,0.45,0.712,Necromys lasiurus,3.12,Rural
+BRA,Santa Catarina,-27.6,-48.5,Atlantic forest,2025,4,27.4,625.9,80.0,0.312,0.459,Necromys lasiurus,3.02,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2010,1,21.2,366.9,67.6,0.648,0.6,Necromys lasiurus,1.16,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2010,2,21.2,83.4,68.4,0.725,0.429,Necromys lasiurus,3.84,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2010,3,21.8,204.8,63.0,0.464,0.62,Necromys lasiurus,5.0,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2010,4,27.7,283.6,60.1,0.474,0.87,Necromys lasiurus,1.2,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2011,1,18.2,354.2,62.7,0.355,0.449,Necromys lasiurus,4.65,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2011,2,19.9,292.4,57.0,0.673,0.631,Necromys lasiurus,2.89,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2011,3,21.9,474.0,52.9,0.485,0.444,Necromys lasiurus,1.03,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2011,4,22.6,376.3,63.5,0.697,0.731,Necromys lasiurus,1.78,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2012,1,18.3,32.0,67.9,0.265,0.584,Necromys lasiurus,2.81,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2012,2,21.6,389.3,68.8,0.565,0.408,Necromys lasiurus,1.94,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2012,3,22.7,750.3,62.7,0.348,0.825,Necromys lasiurus,1.41,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2012,4,28.6,238.2,55.7,0.526,0.902,Necromys lasiurus,0.71,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2013,1,20.5,208.0,61.4,0.52,0.483,Necromys lasiurus,2.26,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2013,2,21.1,578.4,67.9,0.393,0.588,Necromys lasiurus,2.16,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2013,3,22.2,308.7,61.6,0.389,0.349,Necromys lasiurus,3.13,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2013,4,23.8,526.6,74.3,0.746,0.602,Necromys lasiurus,3.75,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2014,1,17.4,262.2,55.8,0.487,0.388,Necromys lasiurus,4.69,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2014,2,21.0,720.9,51.6,0.344,0.747,Necromys lasiurus,3.96,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2014,3,22.9,418.8,49.6,0.624,0.731,Necromys lasiurus,4.39,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2014,4,24.2,361.9,56.5,0.714,0.549,Necromys lasiurus,1.56,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2015,1,16.4,196.3,54.9,0.584,0.436,Necromys lasiurus,2.2,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2015,2,21.3,526.2,64.4,0.291,0.62,Necromys lasiurus,3.96,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2015,3,25.0,332.2,73.2,0.68,0.59,Necromys lasiurus,3.39,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2015,4,27.7,124.3,56.4,0.279,0.374,Necromys lasiurus,2.8,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2016,1,16.1,809.9,55.1,0.712,0.699,Necromys lasiurus,3.1,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2016,2,18.4,328.9,75.7,0.325,0.627,Necromys lasiurus,4.1,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2016,3,23.4,588.2,62.5,0.407,0.835,Necromys lasiurus,2.15,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2016,4,29.7,162.0,56.6,0.369,0.73,Necromys lasiurus,2.55,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2017,1,20.2,489.1,72.9,0.395,0.799,Necromys lasiurus,4.15,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2017,2,17.1,747.3,64.1,0.798,0.844,Necromys lasiurus,2.32,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2017,3,26.1,29.8,64.1,0.613,0.548,Necromys lasiurus,4.11,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2017,4,26.1,200.1,67.3,0.773,0.814,Necromys lasiurus,2.97,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2018,1,19.1,0.0,57.2,0.809,0.757,Necromys lasiurus,2.4,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2018,2,19.7,440.0,60.6,0.581,0.444,Necromys lasiurus,3.78,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2018,3,23.4,182.3,47.0,0.387,0.675,Necromys lasiurus,2.6,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2018,4,26.6,166.3,56.6,0.613,0.683,Necromys lasiurus,3.81,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2019,1,17.7,232.2,66.8,0.612,0.628,Necromys lasiurus,4.08,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2019,2,17.7,31.4,68.7,0.71,0.506,Necromys lasiurus,5.5,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2019,3,23.5,388.2,54.0,0.338,0.809,Necromys lasiurus,4.51,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2019,4,29.1,314.1,75.4,0.822,0.741,Necromys lasiurus,1.84,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2020,1,17.3,413.8,54.5,0.408,0.633,Necromys lasiurus,2.41,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2020,2,22.1,0.0,67.4,0.346,0.838,Necromys lasiurus,3.89,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2020,3,24.8,479.7,78.0,0.531,0.663,Necromys lasiurus,3.56,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2020,4,29.5,165.9,62.2,0.252,0.829,Necromys lasiurus,2.26,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2021,1,14.9,212.7,67.9,0.576,0.946,Necromys lasiurus,3.56,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2021,2,19.7,32.5,67.3,0.67,0.797,Necromys lasiurus,5.66,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2021,3,22.6,217.9,74.6,0.252,0.712,Necromys lasiurus,4.33,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2021,4,25.6,519.7,49.7,0.79,0.637,Necromys lasiurus,3.83,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2022,1,17.1,233.0,55.8,0.407,0.477,Necromys lasiurus,5.96,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2022,2,18.8,662.6,76.1,0.467,0.828,Necromys lasiurus,3.96,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2022,3,20.7,106.7,46.6,0.253,0.918,Necromys lasiurus,5.06,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2022,4,26.9,224.5,58.8,0.714,0.778,Necromys lasiurus,2.37,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2023,1,18.5,289.5,43.8,0.411,0.979,Necromys lasiurus,2.78,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2023,2,20.8,223.0,63.5,0.438,0.431,Necromys lasiurus,5.36,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2023,3,23.1,54.5,64.8,0.641,0.902,Necromys lasiurus,3.77,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2023,4,29.0,370.4,60.1,0.47,0.601,Necromys lasiurus,3.65,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2024,1,16.1,134.8,53.6,0.662,0.661,Necromys lasiurus,2.87,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2024,2,19.0,0.0,59.4,0.616,0.548,Necromys lasiurus,5.34,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2024,3,22.4,0.0,68.7,0.687,0.57,Necromys lasiurus,2.58,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2024,4,24.8,293.5,44.5,0.466,0.808,Necromys lasiurus,6.39,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2025,1,16.7,74.1,78.7,0.799,0.612,Necromys lasiurus,5.36,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2025,2,19.8,607.8,68.5,0.257,0.467,Necromys lasiurus,3.72,Rural
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2025,3,24.4,328.9,60.0,0.764,0.851,Necromys lasiurus,3.49,Peri-urban
+BRA,Minas Gerais,-19.9,-43.9,Cerrado,2025,4,24.8,604.4,63.3,0.532,0.748,Necromys lasiurus,4.37,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2010,1,6.8,69.9,30.3,0.688,0.642,Peromyscus maniculatus,4.1,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2010,2,12.6,0.0,22.0,0.728,0.378,Peromyscus maniculatus,4.87,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2010,3,18.0,56.0,32.4,0.676,0.684,Peromyscus maniculatus,4.92,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2010,4,17.0,42.7,30.8,0.527,0.579,Peromyscus maniculatus,3.31,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2011,1,5.9,64.5,32.9,0.757,0.848,Peromyscus maniculatus,4.39,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2011,2,12.9,47.8,30.0,0.846,0.764,Peromyscus maniculatus,2.15,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2011,3,16.9,92.1,22.0,0.254,0.357,Peromyscus maniculatus,3.08,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2011,4,17.4,29.3,26.2,0.534,0.393,Peromyscus maniculatus,2.24,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2012,1,4.7,89.0,38.7,0.706,0.657,Peromyscus maniculatus,2.34,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2012,2,11.5,0.0,34.2,0.548,0.808,Peromyscus maniculatus,1.28,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2012,3,14.5,96.8,24.7,0.255,0.78,Peromyscus maniculatus,4.96,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2012,4,15.6,28.7,38.5,0.744,0.782,Peromyscus maniculatus,3.14,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2013,1,7.7,99.2,28.8,0.635,0.56,Peromyscus maniculatus,4.49,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2013,2,8.0,57.3,40.4,0.492,0.618,Peromyscus maniculatus,5.22,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2013,3,13.4,42.0,40.0,0.378,0.759,Peromyscus maniculatus,2.04,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2013,4,17.6,48.9,27.7,0.628,0.63,Peromyscus maniculatus,1.76,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2014,1,9.0,18.4,29.0,0.36,0.905,Peromyscus maniculatus,2.33,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2014,2,11.0,99.0,28.0,0.514,0.752,Peromyscus maniculatus,1.63,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2014,3,11.6,55.8,32.4,0.602,0.55,Peromyscus maniculatus,3.22,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2014,4,19.5,125.7,33.6,0.346,0.643,Peromyscus maniculatus,1.43,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2015,1,9.5,41.5,28.6,0.511,0.729,Peromyscus maniculatus,3.4,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2015,2,10.3,76.9,25.2,0.695,0.944,Peromyscus maniculatus,2.8,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2015,3,13.2,95.0,48.3,0.461,0.669,Peromyscus maniculatus,3.66,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2015,4,15.3,156.5,28.7,0.343,0.469,Peromyscus maniculatus,4.84,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2016,1,5.8,49.8,27.5,0.714,0.494,Peromyscus maniculatus,2.88,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2016,2,10.7,91.1,31.0,0.608,0.385,Peromyscus maniculatus,3.07,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2016,3,13.9,54.5,33.7,0.258,0.401,Peromyscus maniculatus,2.54,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2016,4,17.3,23.5,23.5,0.287,0.606,Peromyscus maniculatus,4.71,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2017,1,12.0,64.1,25.7,0.266,0.531,Peromyscus maniculatus,2.6,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2017,2,9.7,73.8,39.3,0.541,0.513,Peromyscus maniculatus,2.76,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2017,3,15.3,91.4,25.0,0.409,0.799,Peromyscus maniculatus,1.3,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2017,4,15.4,37.8,35.7,0.34,0.495,Peromyscus maniculatus,1.71,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2018,1,3.9,0.0,29.9,0.506,0.521,Peromyscus maniculatus,2.42,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2018,2,12.1,120.9,22.2,0.677,0.774,Peromyscus maniculatus,4.22,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2018,3,11.4,108.7,20.9,0.523,0.752,Peromyscus maniculatus,5.43,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2018,4,20.0,44.8,33.5,0.663,0.978,Peromyscus maniculatus,4.24,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2019,1,4.8,27.6,28.8,0.407,0.868,Peromyscus maniculatus,2.7,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2019,2,13.0,101.5,28.9,0.273,0.491,Peromyscus maniculatus,3.67,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2019,3,14.5,21.4,26.4,0.611,0.853,Peromyscus maniculatus,2.05,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2019,4,17.5,172.7,31.6,0.685,0.507,Peromyscus maniculatus,3.64,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2020,1,8.6,59.3,20.9,0.344,0.527,Peromyscus maniculatus,2.63,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2020,2,11.2,71.6,31.0,0.498,0.617,Peromyscus maniculatus,5.27,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2020,3,15.2,78.2,20.5,0.373,0.994,Peromyscus maniculatus,2.03,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2020,4,13.1,35.0,30.8,0.662,0.812,Peromyscus maniculatus,5.5,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2021,1,7.4,0.0,20.0,0.74,0.569,Peromyscus maniculatus,4.55,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2021,2,11.4,56.0,30.3,0.254,0.712,Peromyscus maniculatus,3.84,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2021,3,13.0,97.4,24.2,0.302,0.93,Peromyscus maniculatus,3.63,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2021,4,14.5,0.0,28.0,0.577,0.524,Peromyscus maniculatus,2.9,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2022,1,8.3,79.5,43.0,0.663,0.787,Peromyscus maniculatus,5.58,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2022,2,11.0,28.3,28.2,0.337,0.714,Peromyscus maniculatus,4.13,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2022,3,11.0,91.4,25.2,0.45,0.761,Peromyscus maniculatus,4.18,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2022,4,17.4,71.4,22.0,0.521,0.437,Peromyscus maniculatus,6.19,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2023,1,5.7,73.6,29.3,0.729,0.715,Peromyscus maniculatus,2.54,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2023,2,11.6,70.6,38.3,0.732,0.936,Peromyscus maniculatus,2.42,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2023,3,13.4,18.4,22.2,0.432,0.989,Peromyscus maniculatus,3.73,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2023,4,22.7,24.3,20.0,0.432,0.595,Peromyscus maniculatus,2.62,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2024,1,5.7,95.0,37.3,0.755,0.689,Peromyscus maniculatus,4.13,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2024,2,11.8,35.0,21.2,0.279,0.816,Peromyscus maniculatus,4.91,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2024,3,13.4,107.1,29.4,0.286,0.714,Peromyscus maniculatus,5.24,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2024,4,17.4,61.7,35.8,0.721,0.524,Peromyscus maniculatus,3.52,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2025,1,7.7,81.2,28.6,0.388,1.0,Peromyscus maniculatus,6.17,Peri-urban
+USA,Four Corners,36.5,-109.0,Desert scrub,2025,2,11.1,61.0,35.1,0.265,0.615,Peromyscus maniculatus,3.84,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2025,3,12.3,10.2,27.0,0.657,0.927,Peromyscus maniculatus,4.47,Rural
+USA,Four Corners,36.5,-109.0,Desert scrub,2025,4,12.3,120.4,35.5,0.544,1.0,Peromyscus maniculatus,5.27,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2010,1,8.8,409.8,81.4,0.716,0.804,Peromyscus maniculatus,1.06,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2010,2,6.2,51.1,75.0,0.802,0.477,Peromyscus maniculatus,1.75,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2010,3,13.8,159.5,84.8,0.765,0.882,Peromyscus maniculatus,2.38,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2010,4,14.8,428.9,68.2,0.813,0.778,Peromyscus maniculatus,4.87,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2011,1,11.2,129.1,72.5,0.286,0.757,Peromyscus maniculatus,1.52,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2011,2,14.2,178.4,78.2,0.7,0.86,Peromyscus maniculatus,1.29,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2011,3,12.4,185.0,70.8,0.526,0.715,Peromyscus maniculatus,5.07,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2011,4,17.3,259.2,86.3,0.477,0.468,Peromyscus maniculatus,2.35,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2012,1,6.7,36.3,63.1,0.467,0.711,Peromyscus maniculatus,4.49,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2012,2,6.3,292.7,69.7,0.305,0.462,Peromyscus maniculatus,2.93,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2012,3,8.7,333.0,63.7,0.658,0.414,Peromyscus maniculatus,5.06,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2012,4,11.2,228.5,76.1,0.583,0.911,Peromyscus maniculatus,4.47,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2013,1,7.6,401.0,62.6,0.504,0.838,Peromyscus maniculatus,5.19,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2013,2,8.2,49.7,69.8,0.483,0.907,Peromyscus maniculatus,4.94,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2013,3,13.2,189.8,61.8,0.71,0.9,Peromyscus maniculatus,1.64,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2013,4,17.2,187.5,73.5,0.572,0.538,Peromyscus maniculatus,1.76,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2014,1,4.9,462.1,73.8,0.638,0.711,Peromyscus maniculatus,1.24,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2014,2,10.0,152.9,68.0,0.494,0.893,Peromyscus maniculatus,3.81,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2014,3,13.7,145.0,65.9,0.65,0.493,Peromyscus maniculatus,4.41,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2014,4,17.3,254.0,80.1,0.368,0.695,Peromyscus maniculatus,4.17,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2015,1,6.2,312.8,73.6,0.767,0.642,Peromyscus maniculatus,3.69,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2015,2,5.6,379.0,63.3,0.85,0.888,Peromyscus maniculatus,4.48,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2015,3,13.7,337.7,70.6,0.457,0.739,Peromyscus maniculatus,2.38,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2015,4,15.0,254.0,69.5,0.364,0.864,Peromyscus maniculatus,5.42,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2016,1,6.9,338.9,67.5,0.486,0.865,Peromyscus maniculatus,4.72,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2016,2,9.3,360.0,82.6,0.611,0.444,Peromyscus maniculatus,1.33,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2016,3,14.3,288.1,77.4,0.64,0.906,Peromyscus maniculatus,4.18,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2016,4,15.4,250.1,62.7,0.439,0.421,Peromyscus maniculatus,1.37,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2017,1,7.1,158.9,77.2,0.597,0.682,Peromyscus maniculatus,5.7,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2017,2,11.0,84.4,66.0,0.471,0.673,Peromyscus maniculatus,2.46,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2017,3,9.1,269.8,71.4,0.527,0.38,Peromyscus maniculatus,4.49,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2017,4,13.9,199.6,72.3,0.309,0.563,Peromyscus maniculatus,5.55,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2018,1,6.4,292.6,71.6,0.509,0.967,Peromyscus maniculatus,1.82,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2018,2,8.7,487.2,64.6,0.741,0.767,Peromyscus maniculatus,5.36,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2018,3,13.0,525.4,76.6,0.686,0.909,Peromyscus maniculatus,4.38,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2018,4,12.5,206.0,66.7,0.566,0.751,Peromyscus maniculatus,3.19,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2019,1,7.3,163.6,66.3,0.398,0.491,Peromyscus maniculatus,1.58,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2019,2,9.5,484.1,72.3,0.351,0.965,Peromyscus maniculatus,2.52,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2019,3,13.2,107.2,64.0,0.622,0.62,Peromyscus maniculatus,4.91,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2019,4,14.1,99.1,74.7,0.372,0.978,Peromyscus maniculatus,4.11,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2020,1,4.6,59.5,68.5,0.495,0.891,Peromyscus maniculatus,4.32,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2020,2,7.8,266.9,71.7,0.688,0.531,Peromyscus maniculatus,5.89,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2020,3,14.1,183.2,74.5,0.594,0.784,Peromyscus maniculatus,4.28,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2020,4,13.6,211.6,64.4,0.347,0.519,Peromyscus maniculatus,5.9,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2021,1,5.2,332.6,71.4,0.282,0.428,Peromyscus maniculatus,2.64,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2021,2,9.7,240.6,69.7,0.555,0.784,Peromyscus maniculatus,5.98,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2021,3,13.3,257.7,67.8,0.587,0.649,Peromyscus maniculatus,2.43,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2021,4,11.5,695.5,84.8,0.557,0.517,Peromyscus maniculatus,5.09,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2022,1,7.7,303.9,77.2,0.638,0.581,Peromyscus maniculatus,4.2,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2022,2,9.1,157.6,71.8,0.57,0.601,Peromyscus maniculatus,3.44,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2022,3,10.2,306.9,70.4,0.799,0.885,Peromyscus maniculatus,3.37,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2022,4,14.4,219.2,81.2,0.381,0.481,Peromyscus maniculatus,5.29,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2023,1,8.3,184.0,69.3,0.842,0.502,Peromyscus maniculatus,5.66,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2023,2,11.0,314.2,84.1,0.516,0.786,Peromyscus maniculatus,3.81,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2023,3,12.4,278.9,74.8,0.261,0.906,Peromyscus maniculatus,5.99,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2023,4,13.8,492.6,71.4,0.262,0.559,Peromyscus maniculatus,6.06,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2024,1,4.3,435.8,70.5,0.838,0.933,Peromyscus maniculatus,2.42,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2024,2,12.3,3.7,78.5,0.526,0.655,Peromyscus maniculatus,5.91,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2024,3,11.6,145.5,70.4,0.338,0.849,Peromyscus maniculatus,4.13,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2024,4,15.5,304.8,80.2,0.561,0.883,Peromyscus maniculatus,5.39,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2025,1,7.9,385.1,72.0,0.696,0.728,Peromyscus maniculatus,6.22,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2025,2,10.3,241.7,77.3,0.335,0.902,Peromyscus maniculatus,4.15,Rural
+USA,Pacific NW,47.6,-122.3,Temperate rain,2025,3,10.9,185.4,81.6,0.26,0.85,Peromyscus maniculatus,3.42,Peri-urban
+USA,Pacific NW,47.6,-122.3,Temperate rain,2025,4,17.2,161.7,61.4,0.831,0.822,Peromyscus maniculatus,2.53,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2010,1,3.5,223.7,60.5,0.429,0.508,Apodemus agrarius,3.17,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2010,2,2.2,137.9,49.5,0.654,0.696,Apodemus agrarius,0.84,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2010,3,2.7,25.1,50.7,0.322,0.364,Apodemus agrarius,0.95,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2010,4,6.3,118.7,55.6,0.646,0.693,Apodemus agrarius,1.85,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2011,1,-0.6,47.0,71.6,0.82,0.715,Apodemus agrarius,1.73,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2011,2,1.6,195.1,42.1,0.808,0.656,Apodemus agrarius,3.04,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2011,3,5.4,78.2,72.9,0.801,0.727,Apodemus agrarius,4.01,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2011,4,7.0,119.4,44.1,0.351,0.557,Apodemus agrarius,3.73,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2012,1,1.4,109.7,58.3,0.266,0.763,Apodemus agrarius,4.98,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2012,2,2.6,128.4,57.2,0.489,0.417,Apodemus agrarius,3.54,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2012,3,8.5,175.9,51.1,0.362,0.494,Apodemus agrarius,0.76,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2012,4,6.9,69.4,68.0,0.593,0.675,Apodemus agrarius,1.46,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2013,1,-0.4,68.5,51.9,0.728,0.604,Apodemus agrarius,4.38,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2013,2,1.2,150.6,48.2,0.612,0.43,Apodemus agrarius,4.16,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2013,3,3.7,205.9,57.5,0.508,0.602,Apodemus agrarius,2.93,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2013,4,7.8,63.7,63.5,0.477,0.523,Apodemus agrarius,1.3,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2014,1,-2.0,25.1,61.7,0.561,0.728,Apodemus agrarius,1.26,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2014,2,3.6,143.3,65.1,0.711,0.888,Apodemus agrarius,4.53,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2014,3,5.4,118.0,56.1,0.806,0.373,Apodemus agrarius,3.52,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2014,4,7.1,61.5,66.4,0.412,0.465,Apodemus agrarius,2.21,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2015,1,-0.6,182.3,58.6,0.632,0.436,Apodemus agrarius,2.5,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2015,2,3.6,86.2,57.8,0.403,0.564,Apodemus agrarius,4.56,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2015,3,7.0,140.9,65.2,0.469,0.544,Apodemus agrarius,2.52,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2015,4,8.4,164.8,67.5,0.757,0.549,Apodemus agrarius,3.69,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2016,1,-0.9,159.0,66.1,0.296,0.656,Apodemus agrarius,2.67,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2016,2,0.0,198.0,44.8,0.831,0.957,Apodemus agrarius,2.21,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2016,3,3.9,133.2,67.9,0.289,0.584,Apodemus agrarius,3.31,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2016,4,10.7,171.6,64.0,0.688,0.578,Apodemus agrarius,4.85,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2017,1,-2.0,0.0,52.0,0.683,0.802,Apodemus agrarius,2.31,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2017,2,1.7,41.6,49.4,0.43,0.387,Apodemus agrarius,2.44,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2017,3,7.2,239.7,46.3,0.694,0.516,Apodemus agrarius,1.54,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2017,4,7.8,124.1,71.1,0.302,0.796,Apodemus agrarius,5.59,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2018,1,-1.8,128.8,62.6,0.748,0.382,Apodemus agrarius,2.72,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2018,2,1.7,39.8,63.0,0.389,0.979,Apodemus agrarius,4.71,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2018,3,4.8,135.4,58.0,0.69,0.615,Apodemus agrarius,5.03,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2018,4,9.3,88.2,58.9,0.842,0.798,Apodemus agrarius,2.88,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2019,1,0.0,0.0,64.7,0.686,0.601,Apodemus agrarius,5.05,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2019,2,0.8,0.0,68.0,0.321,0.832,Apodemus agrarius,5.89,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2019,3,5.0,313.8,37.1,0.753,0.805,Apodemus agrarius,5.39,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2019,4,9.6,121.4,63.1,0.417,0.673,Apodemus agrarius,1.6,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2020,1,-0.9,143.5,65.5,0.743,0.968,Apodemus agrarius,5.82,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2020,2,5.1,128.9,58.4,0.832,0.544,Apodemus agrarius,5.23,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2020,3,7.3,234.8,50.7,0.67,0.818,Apodemus agrarius,2.78,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2020,4,10.1,199.8,52.8,0.536,0.405,Apodemus agrarius,5.29,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2021,1,0.8,233.2,56.5,0.374,0.965,Apodemus agrarius,5.77,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2021,2,-0.3,51.8,75.1,0.701,0.831,Apodemus agrarius,2.67,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2021,3,3.4,24.4,65.3,0.435,0.872,Apodemus agrarius,1.83,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2021,4,6.5,160.2,66.3,0.578,0.914,Apodemus agrarius,4.95,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2022,1,-0.6,133.9,68.7,0.509,0.654,Apodemus agrarius,3.44,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2022,2,3.6,117.0,77.0,0.486,0.899,Apodemus agrarius,6.08,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2022,3,5.3,69.5,66.9,0.612,1.0,Apodemus agrarius,4.64,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2022,4,7.9,69.9,70.9,0.419,0.77,Apodemus agrarius,4.66,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2023,1,-0.1,5.2,44.3,0.259,0.756,Apodemus agrarius,3.25,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2023,2,6.4,207.6,67.5,0.793,0.451,Apodemus agrarius,3.0,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2023,3,6.1,7.8,57.0,0.604,0.652,Apodemus agrarius,4.59,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2023,4,7.5,0.0,76.3,0.648,0.567,Apodemus agrarius,1.94,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2024,1,-0.2,253.1,52.8,0.651,0.651,Apodemus agrarius,3.02,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2024,2,5.5,96.2,55.0,0.688,0.896,Apodemus agrarius,2.91,Peri-urban
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2024,3,8.1,98.5,66.0,0.51,0.509,Apodemus agrarius,2.28,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2024,4,6.7,48.1,71.1,0.834,0.839,Apodemus agrarius,1.95,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2025,1,-2.1,207.6,62.1,0.592,0.497,Apodemus agrarius,2.26,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2025,2,4.7,0.0,61.8,0.598,0.758,Apodemus agrarius,6.09,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2025,3,6.4,161.8,57.8,0.406,0.462,Apodemus agrarius,3.44,Rural
+CHN,Heilongjiang,45.8,126.5,Boreal/temperate,2025,4,8.3,128.4,56.5,0.789,0.974,Apodemus agrarius,5.78,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2010,1,8.0,97.0,48.9,0.363,0.53,Apodemus agrarius,2.21,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2010,2,12.9,44.0,60.2,0.354,0.702,Apodemus agrarius,1.86,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2010,3,16.0,315.1,60.9,0.384,0.771,Apodemus agrarius,1.43,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2010,4,17.8,105.2,51.7,0.304,0.396,Apodemus agrarius,0.71,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2011,1,10.8,154.5,58.5,0.791,0.497,Apodemus agrarius,3.37,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2011,2,11.9,123.1,64.7,0.424,0.556,Apodemus agrarius,0.7,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2011,3,13.2,135.2,51.8,0.428,0.897,Apodemus agrarius,2.54,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2011,4,21.6,216.9,70.6,0.649,0.775,Apodemus agrarius,2.2,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2012,1,7.9,13.5,62.1,0.3,0.787,Apodemus agrarius,2.19,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2012,2,13.4,253.4,60.8,0.343,0.825,Apodemus agrarius,3.14,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2012,3,13.9,206.3,64.4,0.275,0.539,Apodemus agrarius,3.3,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2012,4,19.4,203.6,65.6,0.357,0.369,Apodemus agrarius,4.89,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2013,1,5.9,142.9,64.8,0.536,0.922,Apodemus agrarius,2.78,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2013,2,8.7,185.1,66.2,0.31,0.885,Apodemus agrarius,5.13,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2013,3,12.6,42.0,59.7,0.837,0.543,Apodemus agrarius,3.13,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2013,4,16.0,152.0,48.8,0.365,0.682,Apodemus agrarius,1.98,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2014,1,8.5,205.2,63.9,0.774,0.923,Apodemus agrarius,1.66,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2014,2,15.1,99.3,75.8,0.613,0.652,Apodemus agrarius,5.18,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2014,3,17.3,58.1,63.7,0.602,0.458,Apodemus agrarius,4.11,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2014,4,20.7,453.5,59.8,0.37,0.6,Apodemus agrarius,4.19,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2015,1,8.4,193.2,43.2,0.802,0.618,Apodemus agrarius,4.95,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2015,2,16.6,144.6,54.4,0.626,0.632,Apodemus agrarius,3.09,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2015,3,13.7,287.7,58.4,0.432,0.431,Apodemus agrarius,1.36,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2015,4,15.6,173.5,54.2,0.418,0.609,Apodemus agrarius,1.87,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2016,1,12.3,118.4,67.7,0.717,0.552,Apodemus agrarius,1.68,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2016,2,11.8,242.9,48.5,0.401,0.362,Apodemus agrarius,3.75,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2016,3,18.2,202.6,54.1,0.521,0.493,Apodemus agrarius,2.35,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2016,4,16.2,85.1,51.9,0.575,0.508,Apodemus agrarius,1.2,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2017,1,7.4,0.0,50.7,0.565,0.664,Apodemus agrarius,4.92,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2017,2,13.4,249.2,47.1,0.338,0.561,Apodemus agrarius,2.26,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2017,3,17.0,250.1,56.9,0.27,0.559,Apodemus agrarius,3.51,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2017,4,18.1,114.6,49.1,0.399,0.535,Apodemus agrarius,2.79,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2018,1,11.4,74.3,60.3,0.705,0.647,Apodemus agrarius,2.18,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2018,2,12.6,103.5,60.5,0.351,0.795,Apodemus agrarius,3.71,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2018,3,16.4,173.3,73.8,0.543,0.614,Apodemus agrarius,4.85,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2018,4,15.3,130.4,45.0,0.552,0.726,Apodemus agrarius,4.14,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2019,1,8.9,174.7,62.5,0.596,0.448,Apodemus agrarius,2.39,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2019,2,14.1,132.2,82.5,0.581,0.577,Apodemus agrarius,4.97,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2019,3,15.3,139.3,62.2,0.482,0.492,Apodemus agrarius,3.53,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2019,4,17.9,77.4,49.6,0.823,0.569,Apodemus agrarius,2.32,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2020,1,9.2,160.8,43.3,0.496,0.675,Apodemus agrarius,3.75,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2020,2,15.7,0.0,49.4,0.466,0.814,Apodemus agrarius,4.41,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2020,3,16.2,334.6,54.2,0.787,0.411,Apodemus agrarius,1.54,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2020,4,18.8,85.5,41.7,0.457,0.466,Apodemus agrarius,4.64,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2021,1,10.6,164.4,45.1,0.566,0.754,Apodemus agrarius,5.83,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2021,2,11.0,71.9,58.9,0.782,0.879,Apodemus agrarius,3.18,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2021,3,16.3,113.2,57.3,0.507,0.775,Apodemus agrarius,3.17,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2021,4,18.7,206.9,52.4,0.755,0.78,Apodemus agrarius,3.61,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2022,1,9.6,215.4,52.3,0.53,0.562,Apodemus agrarius,2.34,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2022,2,9.2,187.6,52.9,0.719,0.762,Apodemus agrarius,6.04,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2022,3,16.4,249.5,52.0,0.787,0.861,Apodemus agrarius,3.47,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2022,4,18.1,93.9,65.7,0.597,1.0,Apodemus agrarius,2.66,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2023,1,6.8,317.6,57.6,0.3,0.679,Apodemus agrarius,4.65,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2023,2,11.2,194.8,62.8,0.26,0.552,Apodemus agrarius,4.39,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2023,3,19.5,66.4,47.0,0.702,0.752,Apodemus agrarius,2.86,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2023,4,20.7,68.2,52.2,0.785,0.874,Apodemus agrarius,4.53,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2024,1,13.4,75.3,65.6,0.436,0.493,Apodemus agrarius,5.56,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2024,2,13.6,121.6,53.7,0.558,0.47,Apodemus agrarius,3.94,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2024,3,17.9,209.5,77.0,0.317,0.785,Apodemus agrarius,2.41,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2024,4,17.4,67.5,73.1,0.426,0.529,Apodemus agrarius,4.86,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2025,1,10.7,143.0,63.3,0.711,0.479,Apodemus agrarius,6.16,Peri-urban
+CHN,Shaanxi,34.3,108.9,Warm temperate,2025,2,13.7,258.8,47.1,0.638,0.768,Apodemus agrarius,5.0,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2025,3,13.3,0.0,45.2,0.568,0.712,Apodemus agrarius,3.86,Rural
+CHN,Shaanxi,34.3,108.9,Warm temperate,2025,4,17.6,12.8,62.4,0.44,0.532,Apodemus agrarius,2.59,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2010,1,6.0,185.6,81.5,0.371,0.561,Apodemus agrarius,2.92,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2010,2,9.6,302.2,66.7,0.615,0.807,Apodemus agrarius,4.6,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2010,3,16.0,914.4,71.0,0.65,0.56,Apodemus agrarius,0.93,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2010,4,13.7,82.3,81.7,0.306,0.571,Apodemus agrarius,2.67,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2011,1,3.7,273.4,61.4,0.477,0.485,Apodemus agrarius,1.68,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2011,2,11.3,440.0,80.1,0.309,0.598,Apodemus agrarius,4.5,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2011,3,16.7,682.2,81.7,0.761,0.624,Apodemus agrarius,2.35,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2011,4,18.0,193.2,58.0,0.733,0.35,Apodemus agrarius,2.59,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2012,1,9.0,568.0,66.2,0.648,0.487,Apodemus agrarius,3.72,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2012,2,9.2,439.5,60.4,0.287,0.897,Apodemus agrarius,4.32,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2012,3,15.7,92.7,87.3,0.591,0.365,Apodemus agrarius,4.6,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2012,4,17.7,158.5,62.0,0.466,0.408,Apodemus agrarius,1.81,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2013,1,8.3,106.8,73.8,0.523,0.536,Apodemus agrarius,4.14,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2013,2,11.3,870.4,64.2,0.837,0.824,Apodemus agrarius,5.14,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2013,3,16.5,505.4,70.5,0.474,0.849,Apodemus agrarius,1.3,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2013,4,16.3,710.8,73.1,0.607,0.608,Apodemus agrarius,4.97,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2014,1,7.5,74.5,60.9,0.698,0.642,Apodemus agrarius,2.24,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2014,2,8.8,275.8,73.4,0.389,0.388,Apodemus agrarius,1.27,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2014,3,13.9,240.7,57.7,0.645,0.39,Apodemus agrarius,1.4,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2014,4,18.4,0.0,73.7,0.66,0.485,Apodemus agrarius,1.0,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2015,1,7.2,727.2,61.2,0.531,0.382,Apodemus agrarius,4.96,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2015,2,14.6,363.1,63.6,0.434,0.914,Apodemus agrarius,2.47,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2015,3,14.8,340.0,51.7,0.652,0.835,Apodemus agrarius,5.06,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2015,4,15.0,585.1,70.4,0.667,0.722,Apodemus agrarius,3.31,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2016,1,9.1,111.3,78.0,0.304,0.395,Apodemus agrarius,4.96,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2016,2,11.1,137.4,78.1,0.804,0.73,Apodemus agrarius,5.33,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2016,3,15.1,303.6,57.6,0.749,0.754,Apodemus agrarius,1.66,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2016,4,16.0,698.8,66.3,0.762,0.934,Apodemus agrarius,4.6,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2017,1,6.7,296.8,92.8,0.551,0.417,Apodemus agrarius,2.9,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2017,2,11.7,152.2,62.3,0.488,0.83,Apodemus agrarius,2.31,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2017,3,14.2,276.4,66.4,0.365,0.882,Apodemus agrarius,2.42,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2017,4,14.5,417.6,64.1,0.766,0.425,Apodemus agrarius,5.36,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2018,1,8.7,206.1,67.4,0.78,0.727,Apodemus agrarius,2.73,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2018,2,11.3,256.1,74.1,0.31,0.52,Apodemus agrarius,1.81,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2018,3,11.4,732.9,70.8,0.503,0.855,Apodemus agrarius,5.2,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2018,4,15.7,493.3,72.2,0.488,0.833,Apodemus agrarius,1.32,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2019,1,8.8,354.2,66.9,0.69,0.602,Apodemus agrarius,5.78,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2019,2,10.1,561.8,74.1,0.451,0.606,Apodemus agrarius,4.44,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2019,3,14.7,348.7,86.4,0.616,0.836,Apodemus agrarius,3.36,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2019,4,15.7,303.9,77.4,0.313,0.473,Apodemus agrarius,4.21,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2020,1,6.4,380.9,63.1,0.729,0.609,Apodemus agrarius,4.6,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2020,2,12.3,66.2,73.8,0.752,0.915,Apodemus agrarius,1.66,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2020,3,12.5,597.7,70.5,0.274,0.518,Apodemus agrarius,4.25,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2020,4,20.0,339.2,70.9,0.694,0.732,Apodemus agrarius,2.28,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2021,1,5.6,289.9,82.0,0.574,0.863,Apodemus agrarius,5.11,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2021,2,8.9,200.2,65.2,0.629,0.587,Apodemus agrarius,4.25,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2021,3,13.7,0.0,70.7,0.595,0.721,Apodemus agrarius,1.78,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2021,4,15.2,451.3,76.1,0.387,0.496,Apodemus agrarius,2.68,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2022,1,9.1,622.9,73.3,0.826,0.442,Apodemus agrarius,2.18,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2022,2,11.8,585.6,60.4,0.518,0.635,Apodemus agrarius,6.04,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2022,3,12.8,253.5,57.4,0.569,0.842,Apodemus agrarius,6.09,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2022,4,15.5,405.2,64.1,0.702,0.542,Apodemus agrarius,3.09,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2023,1,6.5,571.2,70.1,0.723,0.655,Apodemus agrarius,4.49,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2023,2,11.2,184.9,70.8,0.768,0.488,Apodemus agrarius,2.86,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2023,3,15.3,326.1,62.7,0.398,0.623,Apodemus agrarius,3.67,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2023,4,18.9,4.2,75.8,0.27,0.94,Apodemus agrarius,4.2,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2024,1,7.7,274.6,53.4,0.442,0.915,Apodemus agrarius,3.12,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2024,2,11.3,108.1,61.5,0.366,0.872,Apodemus agrarius,3.43,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2024,3,14.2,576.9,84.0,0.621,0.692,Apodemus agrarius,4.59,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2024,4,20.0,27.6,79.8,0.316,0.675,Apodemus agrarius,6.32,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2025,1,6.7,114.3,80.7,0.3,1.0,Apodemus agrarius,5.13,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2025,2,13.5,329.9,73.5,0.447,0.763,Apodemus agrarius,5.15,Peri-urban
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2025,3,9.8,165.9,52.7,0.498,0.459,Apodemus agrarius,4.12,Rural
+KOR,Gyeonggi,37.3,127.0,Temperate deciduous,2025,4,15.5,427.6,71.8,0.839,0.832,Apodemus agrarius,3.61,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2010,1,-4.6,201.3,61.4,0.61,0.385,Myodes glareolus,2.81,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2010,2,-2.4,179.2,68.0,0.339,0.799,Myodes glareolus,4.42,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2010,3,-0.8,159.0,80.1,0.499,0.739,Myodes glareolus,3.37,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2010,4,7.1,105.9,66.9,0.588,0.506,Myodes glareolus,2.27,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2011,1,-3.1,241.6,74.2,0.742,0.453,Myodes glareolus,4.26,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2011,2,-0.4,198.3,86.3,0.821,0.437,Myodes glareolus,4.31,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2011,3,0.4,221.0,70.6,0.668,0.521,Myodes glareolus,1.88,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2011,4,0.9,224.5,70.7,0.347,0.539,Myodes glareolus,0.83,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2012,1,-8.8,37.0,75.2,0.34,0.631,Myodes glareolus,1.07,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2012,2,-2.0,126.7,78.8,0.692,0.914,Myodes glareolus,4.63,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2012,3,4.9,65.0,88.1,0.567,0.783,Myodes glareolus,2.1,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2012,4,3.4,176.7,86.9,0.628,0.501,Myodes glareolus,2.82,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2013,1,-5.0,216.7,78.6,0.389,0.769,Myodes glareolus,4.71,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2013,2,-2.8,145.9,71.9,0.398,0.401,Myodes glareolus,1.56,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2013,3,-2.9,24.3,88.0,0.337,0.642,Myodes glareolus,2.11,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2013,4,1.2,265.4,82.9,0.567,0.862,Myodes glareolus,2.42,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2014,1,-2.9,125.4,61.5,0.316,0.756,Myodes glareolus,2.03,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2014,2,-4.3,91.3,78.9,0.439,0.551,Myodes glareolus,4.73,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2014,3,-1.2,111.2,68.2,0.509,0.592,Myodes glareolus,1.34,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2014,4,5.2,141.2,80.5,0.315,0.925,Myodes glareolus,0.9,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2015,1,-3.8,373.3,91.5,0.411,0.95,Myodes glareolus,4.08,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2015,2,-3.3,216.5,74.3,0.758,0.444,Myodes glareolus,2.49,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2015,3,-1.9,69.6,75.4,0.464,0.497,Myodes glareolus,3.29,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2015,4,4.2,86.7,68.9,0.498,0.668,Myodes glareolus,1.92,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2016,1,-1.2,105.2,75.5,0.408,0.794,Myodes glareolus,1.58,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2016,2,-2.0,179.2,74.5,0.683,0.635,Myodes glareolus,4.19,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2016,3,0.8,168.4,71.2,0.574,0.471,Myodes glareolus,5.24,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2016,4,1.5,171.6,81.2,0.699,0.458,Myodes glareolus,5.27,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2017,1,-6.0,108.8,74.6,0.639,0.385,Myodes glareolus,1.3,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2017,2,2.2,128.3,82.3,0.595,0.445,Myodes glareolus,1.22,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2017,3,-0.3,103.1,76.9,0.749,0.75,Myodes glareolus,4.86,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2017,4,3.9,120.4,72.2,0.643,0.687,Myodes glareolus,1.69,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2018,1,-3.4,268.2,59.6,0.299,0.944,Myodes glareolus,2.92,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2018,2,-0.1,158.5,63.0,0.752,0.438,Myodes glareolus,3.64,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2018,3,0.2,169.0,86.7,0.785,0.433,Myodes glareolus,4.64,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2018,4,4.0,66.2,80.5,0.34,0.57,Myodes glareolus,5.67,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2019,1,-3.2,196.2,75.9,0.817,0.912,Myodes glareolus,2.62,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2019,2,2.3,247.8,71.5,0.434,0.937,Myodes glareolus,5.55,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2019,3,1.0,64.4,75.4,0.758,0.542,Myodes glareolus,2.95,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2019,4,2.0,101.1,79.6,0.799,0.923,Myodes glareolus,4.89,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2020,1,-7.1,98.8,66.5,0.74,0.744,Myodes glareolus,4.71,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2020,2,-2.0,222.5,68.0,0.759,0.424,Myodes glareolus,2.09,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2020,3,-2.8,37.9,89.1,0.548,0.717,Myodes glareolus,2.87,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2020,4,0.6,203.1,69.9,0.839,0.725,Myodes glareolus,2.36,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2021,1,-7.4,258.0,72.7,0.627,0.452,Myodes glareolus,3.21,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2021,2,-4.3,85.4,72.9,0.509,0.549,Myodes glareolus,5.23,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2021,3,-1.7,228.3,88.7,0.847,0.811,Myodes glareolus,2.37,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2021,4,0.4,129.5,65.6,0.367,1.0,Myodes glareolus,3.22,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2022,1,-3.1,151.5,80.4,0.446,0.513,Myodes glareolus,2.77,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2022,2,-2.5,337.3,77.0,0.583,0.451,Myodes glareolus,5.13,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2022,3,-0.6,42.5,71.4,0.374,0.907,Myodes glareolus,2.47,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2022,4,4.7,111.2,73.1,0.263,0.524,Myodes glareolus,3.97,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2023,1,-7.0,271.2,80.4,0.835,0.797,Myodes glareolus,3.78,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2023,2,-3.9,164.9,72.8,0.314,0.763,Myodes glareolus,4.84,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2023,3,-1.2,151.9,75.2,0.59,0.912,Myodes glareolus,4.06,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2023,4,1.6,188.8,61.8,0.45,0.678,Myodes glareolus,1.82,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2024,1,-4.9,268.2,98.0,0.375,0.686,Myodes glareolus,4.53,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2024,2,-4.4,38.8,80.9,0.444,0.776,Myodes glareolus,5.49,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2024,3,3.7,186.2,71.4,0.386,0.904,Myodes glareolus,3.45,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2024,4,3.6,91.3,75.8,0.387,0.574,Myodes glareolus,2.07,Rural
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2025,1,-7.5,177.4,83.1,0.813,0.984,Myodes glareolus,2.24,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2025,2,-3.5,345.1,85.8,0.384,0.779,Myodes glareolus,5.63,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2025,3,5.6,22.0,80.2,0.789,1.0,Myodes glareolus,5.47,Peri-urban
+FIN,Ostrobothnia,63.1,21.6,Boreal taiga,2025,4,3.9,0.0,82.5,0.589,0.613,Myodes glareolus,4.45,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2010,1,4.3,46.6,80.9,0.455,0.527,Myodes glareolus,1.89,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2010,2,9.2,233.3,66.9,0.322,0.306,Myodes glareolus,1.52,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2010,3,14.3,156.8,82.0,0.277,0.319,Myodes glareolus,1.78,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2010,4,14.0,274.4,60.8,0.547,0.899,Myodes glareolus,2.61,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2011,1,4.9,190.7,79.8,0.57,0.64,Myodes glareolus,1.92,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2011,2,6.4,332.4,75.8,0.294,0.398,Myodes glareolus,2.21,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2011,3,12.8,125.8,66.2,0.353,0.861,Myodes glareolus,3.23,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2011,4,15.8,135.5,81.0,0.575,0.547,Myodes glareolus,3.73,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2012,1,4.8,20.2,80.8,0.606,0.779,Myodes glareolus,3.36,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2012,2,11.2,180.1,58.0,0.568,0.584,Myodes glareolus,2.68,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2012,3,10.4,258.4,78.2,0.687,0.608,Myodes glareolus,1.13,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2012,4,12.7,429.4,64.3,0.4,0.581,Myodes glareolus,4.82,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2013,1,4.0,129.3,80.0,0.374,0.503,Myodes glareolus,1.78,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2013,2,5.0,174.7,69.1,0.368,0.623,Myodes glareolus,0.91,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2013,3,14.3,169.6,80.6,0.275,0.347,Myodes glareolus,4.08,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2013,4,13.5,281.4,62.8,0.457,0.553,Myodes glareolus,3.34,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2014,1,8.0,133.9,70.9,0.592,0.818,Myodes glareolus,1.9,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2014,2,7.3,137.9,52.5,0.383,0.531,Myodes glareolus,5.26,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2014,3,11.5,106.6,70.8,0.543,0.894,Myodes glareolus,3.13,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2014,4,16.3,276.3,66.4,0.315,0.71,Myodes glareolus,3.1,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2015,1,3.8,353.7,70.4,0.325,0.865,Myodes glareolus,3.04,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2015,2,9.4,0.0,71.3,0.336,0.606,Myodes glareolus,1.51,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2015,3,10.6,314.1,60.9,0.29,0.747,Myodes glareolus,1.89,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2015,4,12.9,289.9,75.5,0.701,0.421,Myodes glareolus,4.06,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2016,1,4.6,97.9,49.0,0.798,0.808,Myodes glareolus,1.23,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2016,2,12.1,267.1,64.6,0.684,0.699,Myodes glareolus,3.19,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2016,3,10.7,104.3,59.5,0.521,0.581,Myodes glareolus,3.68,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2016,4,12.8,5.5,73.9,0.3,0.655,Myodes glareolus,1.85,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2017,1,5.1,0.0,60.1,0.303,0.76,Myodes glareolus,2.39,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2017,2,4.4,94.1,60.1,0.295,0.786,Myodes glareolus,1.67,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2017,3,11.5,320.7,66.2,0.294,0.377,Myodes glareolus,3.64,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2017,4,14.2,424.1,61.6,0.631,0.647,Myodes glareolus,2.12,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2018,1,5.0,95.5,68.0,0.419,0.865,Myodes glareolus,4.87,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2018,2,11.5,285.4,63.8,0.345,0.925,Myodes glareolus,4.36,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2018,3,11.6,198.4,60.6,0.581,0.884,Myodes glareolus,4.52,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2018,4,15.7,128.6,66.1,0.333,0.591,Myodes glareolus,2.88,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2019,1,6.3,154.3,67.6,0.745,0.792,Myodes glareolus,2.18,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2019,2,10.7,270.5,61.9,0.509,0.45,Myodes glareolus,5.26,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2019,3,10.3,39.2,86.3,0.553,0.394,Myodes glareolus,4.39,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2019,4,16.0,199.9,62.6,0.484,0.727,Myodes glareolus,5.57,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2020,1,5.9,165.2,71.1,0.686,0.423,Myodes glareolus,2.42,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2020,2,10.7,125.7,64.8,0.517,0.929,Myodes glareolus,2.84,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2020,3,11.0,160.7,59.9,0.847,0.594,Myodes glareolus,1.54,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2020,4,14.8,225.6,50.3,0.575,0.541,Myodes glareolus,5.78,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2021,1,8.3,97.8,55.9,0.616,0.625,Myodes glareolus,2.1,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2021,2,10.3,243.7,60.4,0.528,0.711,Myodes glareolus,2.19,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2021,3,11.8,192.9,62.8,0.692,0.611,Myodes glareolus,3.66,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2021,4,13.2,145.6,65.8,0.751,0.571,Myodes glareolus,5.97,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2022,1,4.3,221.8,60.1,0.709,0.988,Myodes glareolus,3.42,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2022,2,10.1,163.9,67.4,0.297,0.689,Myodes glareolus,6.2,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2022,3,12.3,161.0,64.8,0.594,0.577,Myodes glareolus,2.27,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2022,4,13.9,193.5,66.6,0.585,0.851,Myodes glareolus,3.37,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2023,1,6.7,84.0,66.2,0.396,0.752,Myodes glareolus,3.64,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2023,2,8.9,89.2,67.6,0.463,0.696,Myodes glareolus,2.16,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2023,3,11.8,67.9,68.7,0.41,0.57,Myodes glareolus,4.49,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2023,4,13.7,296.7,62.9,0.688,0.582,Myodes glareolus,2.0,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2024,1,3.7,456.7,77.6,0.362,0.851,Myodes glareolus,3.57,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2024,2,12.4,54.3,60.1,0.388,0.503,Myodes glareolus,6.0,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2024,3,12.9,220.4,59.6,0.618,0.494,Myodes glareolus,2.27,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2024,4,14.4,205.1,69.8,0.597,0.863,Myodes glareolus,3.25,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2025,1,5.6,363.3,66.3,0.252,0.834,Myodes glareolus,2.81,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2025,2,10.5,257.9,62.8,0.672,0.884,Myodes glareolus,3.92,Peri-urban
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2025,3,11.3,164.2,70.6,0.603,0.517,Myodes glareolus,6.03,Rural
+DEU,Baden-Württemberg,48.8,9.2,Temperate mixed,2025,4,13.5,0.0,85.9,0.252,1.0,Myodes glareolus,4.12,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2010,1,-1.2,236.1,64.8,0.56,0.597,Myodes glareolus,4.1,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2010,2,4.5,107.2,63.7,0.448,0.46,Myodes glareolus,1.21,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2010,3,4.4,119.5,69.2,0.554,0.839,Myodes glareolus,1.57,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2010,4,10.7,195.2,63.6,0.808,0.419,Myodes glareolus,2.97,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2011,1,-0.7,157.4,67.6,0.837,0.737,Myodes glareolus,1.76,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2011,2,2.5,104.1,64.6,0.828,0.38,Myodes glareolus,4.78,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2011,3,2.1,192.4,63.0,0.263,0.423,Myodes glareolus,3.94,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2011,4,8.3,37.9,61.4,0.303,0.555,Myodes glareolus,4.66,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2012,1,-4.8,133.8,60.4,0.658,0.519,Myodes glareolus,2.14,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2012,2,5.2,37.1,63.1,0.41,0.329,Myodes glareolus,1.9,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2012,3,7.1,67.8,72.6,0.595,0.535,Myodes glareolus,2.38,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2012,4,7.9,153.5,68.0,0.525,0.518,Myodes glareolus,2.92,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2013,1,-0.9,168.0,66.3,0.716,0.478,Myodes glareolus,2.32,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2013,2,-0.1,120.8,71.9,0.598,0.444,Myodes glareolus,1.89,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2013,3,5.1,132.6,63.7,0.624,0.617,Myodes glareolus,0.97,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2013,4,7.1,150.5,81.4,0.284,0.918,Myodes glareolus,1.75,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2014,1,-4.4,65.2,65.5,0.717,0.437,Myodes glareolus,3.85,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2014,2,4.9,135.9,55.1,0.723,0.379,Myodes glareolus,2.88,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2014,3,3.3,90.8,78.1,0.795,0.429,Myodes glareolus,1.53,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2014,4,6.0,66.0,76.1,0.485,0.632,Myodes glareolus,1.99,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2015,1,-4.3,247.6,59.5,0.515,0.709,Myodes glareolus,1.38,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2015,2,1.4,233.7,81.1,0.734,0.908,Myodes glareolus,1.92,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2015,3,6.4,196.8,62.0,0.823,0.928,Myodes glareolus,4.6,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2015,4,6.2,172.2,70.6,0.627,0.68,Myodes glareolus,5.4,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2016,1,-2.3,114.2,62.1,0.763,0.715,Myodes glareolus,5.11,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2016,2,4.1,29.9,61.6,0.53,0.949,Myodes glareolus,2.9,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2016,3,6.2,72.5,55.5,0.371,0.731,Myodes glareolus,3.95,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2016,4,8.7,285.2,73.1,0.439,0.467,Myodes glareolus,1.2,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2017,1,-0.8,110.9,67.6,0.567,0.904,Myodes glareolus,3.04,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2017,2,-1.8,92.0,64.2,0.298,0.774,Myodes glareolus,1.61,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2017,3,1.6,30.2,60.4,0.451,0.672,Myodes glareolus,2.22,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2017,4,8.9,192.8,68.3,0.639,0.508,Myodes glareolus,2.11,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2018,1,0.5,138.7,73.2,0.809,0.802,Myodes glareolus,4.73,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2018,2,1.3,94.1,68.9,0.839,0.906,Myodes glareolus,4.39,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2018,3,4.2,323.0,71.8,0.472,0.86,Myodes glareolus,5.19,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2018,4,7.8,79.1,66.9,0.558,0.572,Myodes glareolus,5.64,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2019,1,-1.2,111.7,63.6,0.631,0.831,Myodes glareolus,1.94,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2019,2,0.1,117.1,72.4,0.333,0.78,Myodes glareolus,2.21,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2019,3,2.6,222.5,64.4,0.619,0.596,Myodes glareolus,4.31,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2019,4,7.0,102.8,63.2,0.657,0.674,Myodes glareolus,2.56,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2020,1,-4.5,153.5,56.1,0.821,0.409,Myodes glareolus,2.33,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2020,2,1.4,130.4,61.9,0.818,0.475,Myodes glareolus,5.32,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2020,3,4.5,175.9,68.2,0.831,0.934,Myodes glareolus,3.79,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2020,4,7.9,206.8,45.8,0.587,0.5,Myodes glareolus,4.12,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2021,1,-1.6,47.4,69.2,0.313,0.962,Myodes glareolus,3.19,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2021,2,1.1,179.5,54.6,0.387,0.707,Myodes glareolus,3.74,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2021,3,1.9,50.1,40.8,0.641,0.672,Myodes glareolus,5.24,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2021,4,9.5,106.0,82.3,0.595,0.854,Myodes glareolus,3.61,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2022,1,1.0,12.2,58.4,0.361,0.816,Myodes glareolus,6.02,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2022,2,-0.0,76.4,63.3,0.794,0.483,Myodes glareolus,2.97,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2022,3,5.3,145.1,76.5,0.637,0.547,Myodes glareolus,5.51,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2022,4,9.3,80.1,63.4,0.339,0.741,Myodes glareolus,5.35,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2023,1,-4.5,44.1,53.4,0.286,0.936,Myodes glareolus,4.38,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2023,2,-0.1,56.1,53.6,0.558,0.923,Myodes glareolus,5.44,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2023,3,8.2,38.8,58.0,0.433,0.708,Myodes glareolus,6.11,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2023,4,10.4,165.9,56.5,0.255,0.776,Myodes glareolus,2.94,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2024,1,-5.9,167.1,76.2,0.609,0.78,Myodes glareolus,3.06,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2024,2,0.8,8.2,69.3,0.811,0.879,Myodes glareolus,2.25,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2024,3,7.2,124.8,81.4,0.401,0.618,Myodes glareolus,2.31,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2024,4,6.9,182.6,62.3,0.434,0.998,Myodes glareolus,3.31,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2025,1,-1.9,161.9,63.8,0.405,0.939,Myodes glareolus,4.27,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2025,2,1.8,71.1,56.4,0.251,0.883,Myodes glareolus,6.25,Peri-urban
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2025,3,0.6,158.9,67.1,0.556,0.771,Myodes glareolus,5.43,Rural
+RUS,Bashkortostan,54.7,56.0,Forest steppe,2025,4,6.7,160.1,63.8,0.729,0.901,Myodes glareolus,2.94,Peri-urban
