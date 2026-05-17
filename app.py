@@ -64,25 +64,25 @@ fatality_by_symptoms = pd.read_sql_query("""
         SUM(CASE WHEN outcome='Deceased'  THEN 1 ELSE 0 END)
     FROM hv_clinical WHERE myalgia IS NOT NULL AND myalgia = 1.0 GROUP BY myalgia
     UNION ALL
-    SELECT 'Headache', headache,
+    SELECT 'Blurred Vision', blurred_vision,
         SUM(CASE WHEN outcome='Recovered' THEN 1 ELSE 0 END),
         SUM(CASE WHEN outcome='Deceased'  THEN 1 ELSE 0 END)
-    FROM hv_clinical WHERE headache IS NOT NULL AND headache = 1.0 GROUP BY headache
+    FROM hv_clinical WHERE blurred_vision IS NOT NULL AND blurred_vision = 1.0 GROUP BY blurred_vision
     UNION ALL
-    SELECT 'Cough', cough,
+    SELECT 'Hypotension', hypotension,
         SUM(CASE WHEN outcome='Recovered' THEN 1 ELSE 0 END),
         SUM(CASE WHEN outcome='Deceased'  THEN 1 ELSE 0 END)
-    FROM hv_clinical WHERE cough IS NOT NULL AND cough = 1.0 GROUP BY cough
+    FROM hv_clinical WHERE hypotension IS NOT NULL AND hypotension = 1.0 GROUP BY hypotension
     UNION ALL
     SELECT 'Dyspnea', dyspnea,
         SUM(CASE WHEN outcome='Recovered' THEN 1 ELSE 0 END),
         SUM(CASE WHEN outcome='Deceased'  THEN 1 ELSE 0 END)
     FROM hv_clinical WHERE dyspnea IS NOT NULL AND dyspnea = 1.0 GROUP BY dyspnea
     UNION ALL
-    SELECT 'Nausea', nausea,
+    SELECT 'Hemorrhage', hemorrhage,
         SUM(CASE WHEN outcome='Recovered' THEN 1 ELSE 0 END),
         SUM(CASE WHEN outcome='Deceased'  THEN 1 ELSE 0 END)
-    FROM hv_clinical WHERE nausea IS NOT NULL AND nausea = 1.0 GROUP BY nausea
+    FROM hv_clinical WHERE hemorrhage IS NOT NULL AND hemorrhage = 1.0 GROUP BY hemorrhage
 """, conn)
 fatality_by_symptoms["fatality_rate"]  = fatality_by_symptoms["deceased"]  / (fatality_by_symptoms["recovered"] + fatality_by_symptoms["deceased"])
 fatality_by_symptoms["recovery_rate"]  = 1 - fatality_by_symptoms["fatality_rate"]
@@ -355,7 +355,7 @@ app.layout = html.Div(style={
             html.Span("ANALYSIS", style={"color": MUTED, "fontSize": "13px",
                                           "letterSpacing": "6px", "verticalAlign": "middle"}),
         ]),
-        html.P("Hantavirus (Andes Virus) — Global Epidemiology Dashboard",
+        html.P("Hantavirus — Global Epidemiology Dashboard",
                style={"color": MUTED, "fontSize": "12px", "margin": "8px 0 0 0",
                       "letterSpacing": "1px"}),
         html.Hr(style={"borderColor": BORDER, "margin": "24px 0"})
@@ -420,7 +420,7 @@ app.layout = html.Div(style={
     # ── Footer ──
     html.Div([
         html.Hr(style={"borderColor": BORDER, "margin": "0 0 16px 0"}),
-        html.P(f"Data: Kaggle — Hantavirus (Andes Virus) Global Epidemiology  ·  "
+        html.P(f"Data: Kaggle — Hantavirus Global Epidemiology  ·  "
                f"Built with Plotly Dash",
                style={"color": MUTED, "fontSize": "11px", "letterSpacing": "1px"})
     ])
